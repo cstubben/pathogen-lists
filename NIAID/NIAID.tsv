@@ -1,0 +1,107 @@
+n	pathogen	note	group	category
+1	Bacillus anthracis	anthrax		Category A Priority Pathogens
+2	Clostridium botulinum toxin	botulism		Category A Priority Pathogens
+3	Yersinia pestis	plague		Category A Priority Pathogens
+4	Variola major	smallpox		Category A Priority Pathogens
+5	other related pox viruses			Category A Priority Pathogens
+6	Francisella tularensis	tularemia		Category A Priority Pathogens
+7	Junin		Viral hemorrhagic fevers; Arenaviruses	Category A Priority Pathogens
+8	Machupo		Viral hemorrhagic fevers; Arenaviruses	Category A Priority Pathogens
+9	Guanarito		Viral hemorrhagic fevers; Arenaviruses	Category A Priority Pathogens
+10	Chapare	new in fiscal year (FY) 14	Viral hemorrhagic fevers; Arenaviruses	Category A Priority Pathogens
+11	Lassa		Viral hemorrhagic fevers; Arenaviruses	Category A Priority Pathogens
+12	Lujo	new in FY 14	Viral hemorrhagic fevers; Arenaviruses	Category A Priority Pathogens
+13	Hantaviruses causing Hanta Pulmonary syndrome		Viral hemorrhagic fevers; Bunyaviruses	Category A Priority Pathogens
+14	Rift Valley Fever		Viral hemorrhagic fevers; Bunyaviruses	Category A Priority Pathogens
+15	Crimean Congo Hemorrhagic Fever		Viral hemorrhagic fevers; Bunyaviruses	Category A Priority Pathogens
+16	Dengue		Viral hemorrhagic fevers; Flaviruses	Category A Priority Pathogens
+17	Ebola		Viral hemorrhagic fevers; Filoviruses	Category A Priority Pathogens
+18	Marburg		Viral hemorrhagic fevers; Filoviruses	Category A Priority Pathogens
+19	Burkholderia pseudomallei	melioidosis		Category B Priority Pathogens
+20	Coxiella burnetii	Q fever		Category B Priority Pathogens
+21	Brucella species	brucellosis		Category B Priority Pathogens
+22	Burkholderia mallei	glanders		Category B Priority Pathogens
+23	Chlamydia psittaci	Psittacosis		Category B Priority Pathogens
+24	Ricin toxin	Ricinus communis		Category B Priority Pathogens
+25	Epsilon toxin	Clostridium perfringens		Category B Priority Pathogens
+26	Staphylococcus enterotoxin B	SEB		Category B Priority Pathogens
+27	Typhus fever	Rickettsia prowazekii		Category B Priority Pathogens
+28	Diarrheagenic E.coli		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+29	Pathogenic Vibrios		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+30	Shigella species		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+31	Salmonella		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+32	Listeria monocytogenes		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+33	Campylobacter jejuni		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+34	Yersinia enterocolitica		Food- and waterborne pathogens; Bacteria	Category B Priority Pathogens
+35	Caliciviruses		Food- and waterborne pathogens; Viruses	Category B Priority Pathogens
+36	Hepatitis A		Food- and waterborne pathogens; Viruses	Category B Priority Pathogens
+37	Cryptosporidium parvum		Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+38	Cyclospora cayatanensis		Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+39	Giardia lamblia		Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+40	Entamoeba histolytica		Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+41	Toxoplasma gondii		Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+42	Naegleria fowleri	new in FY 14	Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+43	Balamuthia mandrillaris	new in FY 14	Food- and waterborne pathogens; Protozoa	Category B Priority Pathogens
+44	Microsporidia		Food- and waterborne pathogens; Fungi	Category B Priority Pathogens
+45	West Nile virus	WNV	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+46	LaCrosse encephalitis	LACV	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+47	California encephalitis		Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+48	Venezuelan equine encephalitis	VEE	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+49	Eastern equine encephalitis	EEE	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+50	Western equine encephalitis	WEE	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+51	Japanese encephalitis virus	JE	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+52	St. Louis encephalitis virus	SLEV	Mosquito-borne encephalitis viruses	Category B Priority Pathogens
+53	Nipah			Category C Priority Pathogens
+54	Hendra viruses			Category C Priority Pathogens
+55	Additional hantaviruses			Category C Priority Pathogens
+56	Severe Fever with Thrombocytopenia Syndrome virus	SFTSV	Tickborne hemorrhagic fever viruses; Bunyaviruses	Category C Priority Pathogens
+57	Heartland virus		Tickborne hemorrhagic fever viruses; Bunyaviruses	Category C Priority Pathogens
+58	Omsk Hemorrhagic Fever virus		Tickborne hemorrhagic fever viruses; Flaviruses	Category C Priority Pathogens
+59	Alkhurma virus		Tickborne hemorrhagic fever viruses; Flaviruses	Category C Priority Pathogens
+60	Kyasanur Forest virus		Tickborne hemorrhagic fever viruses; Flaviruses	Category C Priority Pathogens
+61	Tickborne encephalitis viruses		Tickborne encephalitis complex flaviviruses	Category C Priority Pathogens
+62	European subtype		Tickborne encephalitis complex flaviviruses	Category C Priority Pathogens
+63	Far Eastern subtype		Tickborne encephalitis complex flaviviruses	Category C Priority Pathogens
+64	Siberian subtype		Tickborne encephalitis complex flaviviruses	Category C Priority Pathogens
+65	Powassan/Deer Tick virus		Tickborne encephalitis complex flaviviruses	Category C Priority Pathogens
+66	Yellow fever virus			Category C Priority Pathogens
+67	Tuberculosis			Category C Priority Pathogens
+68	including drug-resistant TB			Category C Priority Pathogens
+69	Influenza virus			Category C Priority Pathogens
+70	Other Rickettsias			Category C Priority Pathogens
+71	Rabies virus			Category C Priority Pathogens
+72	Prions			Category C Priority Pathogens
+73	Chikungunya virus			Category C Priority Pathogens
+74	Coccidioides spp.			Category C Priority Pathogens
+75	Severe acute respiratory syndrome associated coronavirus	SARS-CoV		Category C Priority Pathogens
+76	MERS-CoV			Category C Priority Pathogens
+77	other highly pathogenic human coronaviruses			Category C Priority Pathogens
+78	Acanthamebiasis			Additional Emerging Infectious Diseases/Pathogens
+79	Anaplasmosis	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+80	Aspergillus	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+81	Australian bat lyssavirus			Additional Emerging Infectious Diseases/Pathogens
+82	Babesia, atypical			Additional Emerging Infectious Diseases/Pathogens
+83	Bartonella henselae			Additional Emerging Infectious Diseases/Pathogens
+84	BK virus	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+85	Bordetella pertussis	new in FY 15		Additional Emerging Infectious Diseases/Pathogens
+86	Borrelia miyamotoi	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+87	Clostridium difficile			Additional Emerging Infectious Diseases/Pathogens
+88	Cryptococcus gattii	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+89	Ehrlichiosis			Additional Emerging Infectious Diseases/Pathogens
+90	Enterococcus faecium			Additional Emerging Infectious Diseases/Pathogens
+91	Enterococcus faecalis	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+92	Enterovirus 68	new in FY 15		Additional Emerging Infectious Diseases/Pathogens
+93	Enterovirus 71			Additional Emerging Infectious Diseases/Pathogens
+94	Hepatitis C	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+95	Hepatitis E	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+96	Human herpesvirus 8			Additional Emerging Infectious Diseases/Pathogens
+97	Human herpesvirus 6			Additional Emerging Infectious Diseases/Pathogens
+98	JC virus	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+99	Leptospirosis	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+100	Lyme borreliosis			Additional Emerging Infectious Diseases/Pathogens
+101	Mucormycosis	new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+102	Mumps virus			Additional Emerging Infectious Diseases/Pathogens
+103	Poliovirus	new in FY 15		Additional Emerging Infectious Diseases/Pathogens
+104	Rubeola	measles, new in FY 14		Additional Emerging Infectious Diseases/Pathogens
+105	Streptococcus, Group A			Additional Emerging Infectious Diseases/Pathogens
+106	Staphylococcus aureus			Additional Emerging Infectious Diseases/Pathogens
