@@ -1,0 +1,130 @@
+pathogen	classification	hosts	transmission	disease
+Adeno-associated virus	Dependovirus,Parvoviridae	Human, vertebrates	Respiratory	None
+Aichi virus	Kobuvirus,Picornaviridae	Human	Fecal-oral	Gastroenteritis
+Australian bat lyssavirus	Lyssavirus,Rhabdoviridae	Human, bats	Zoonosis, animal bite	Fatal encephalitis
+BK polyomavirus	Polyomavirus,Polyomaviridae	Human	Respiratory fluids or urine	None
+Banna virus	Seadornavirus,Reoviridae	Human, cattle, pig, mosquitoes	Zoonosis, arthropod bite	Encephalitis
+Barmah forest virus	Alphavirus,Togaviridae	Human, marsupials, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Bunyamwera virus	Orthobunyavirus,Bunyaviridae	Human, mosquitoes	Zoonosis, arthropod bite	Encephalitis
+Bunyavirus La Crosse	Orthobunyavirus,Bunyaviridae	Human, deer, mosquitoes, tamias	Zoonosis, arthropod bite	Encephalitis
+Bunyavirus snowshoe hare	Orthobunyavirus,Bunyaviridae	Human, rodents, mosquitoes	Zoonosis, arthropod bite	Encephalitis
+Cercopithecine herpesvirus	Lymphocryptovirus,Herpesviridae	Human, monkeys	Zoonosis, animal bite	Encephalitis
+Chandipura virus	Vesiculovirus,Rhabdoviridae	Human, sandflies	Zoonosis, athropod bite	Encephalitis
+Chikungunya virus	Alphavirus,Togaviridae	Human, monkeys, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Cosavirus A	Cosavirus,Picornaviridae	Human	Fecal-oral (probable)	-
+Cowpox virus	Orthopoxvirus,Poxviridae	Human, mammals	Zoonosis, contact	None
+Coxsackievirus	Enterovirus,Picornaviridae	Human	Fecal-oral	Meningitis, myocarditis, paralysis
+Crimean-Congo hemorrhagic fever virus	Nairovirus,Bunyaviridae	Human, vertebrates, ticks	Zoonosis, arthropod bite	Hemorrhagic fever
+Dengue virus	Flavivirus,Flaviviridae	Human, mosquitoes	Zoonosis, arthropod bite	Hemorrhagic fever
+Dhori virus	Thogotovirus,Orthomyxoviridae	Human, ticks	Zoonosis, arthropod bite	Fever, encephalitis
+Dugbe virus	Nairovirus,Bunyaviridae	Human, ticks	Zoonosis, arthropod bite	Thrombocytopaenia
+Duvenhage virus	Lyssavirus,Rhabdoviridae	Human, mammals	Zoonosis, animal bite	Fatal encephalitis
+Eastern equine encephalitis virus	Alphavirus,Togaviridae	Human, birds, mosquitoes	Zoonosis, arthropod bite	Encephalitis
+Ebolavirus	Ebolavirus,Filoviridae	Human, monkeys, bats	Zoonosis, contact	Hemorrhagic fever
+Echovirus	Enterovirus,Picornaviridae	Human	Fecal-oral	Common cold
+Encephalomyocarditis virus	Cardiovirus,Picornaviridae	Human, mouse, rat, pig	Zoonosis	Encephalitis
+Epstein-Barr virus	Lymphocryptovirus,Herpesviridae	Human	Contact, saliva	Mononucleosis
+European bat lyssavirus	Lyssavirus,Rhabdovirus	Human, bats	Zoonosis, animal bite	Fatal encephalitis
+GB virus C/Hepatitis G virus	Pegivirus,Flaviviridae	Human	Blood, occasionally sexual	None
+Hantaan virus	Hantavirus,Bunyaviridae	Human, rodents	Zoonosis, urine, saliva	Renal or respiratory syndrome
+Hendra virus	Henipavirus,paramyxoviridae	Human, horse, bats	Zoonosis, animal bite	Encephalitis
+Hepatitis A virus	Hepatovirus,picornaviridae	Human	Fecal-oral	Hepatitis
+Hepatitis B virus	Orthohepadnavirus,Hepadnaviridae	Human, Chimpanzees	Sexual contact, blood	Hepatitis
+Hepatitis C virus	Hepacivirus,Flaviviridae	Human	Sexual, blood	Hepatitis
+Hepatitis E virus	Hepevirus,Unassigned	Human, pig, monkeys, some rodents, chicken	Zoonosis, food	Hepatitis
+Hepatitis delta virus	Deltavirus,Unassigned	Human	Sexual contact, blood	Hepatitis
+Horsepox virus	Orthopoxvirus,Poxviridae	Human, horses	Zoonosis, contact	None
+Human adenovirus	Mastadenovirus,Adenoviridae	Human	Respiratory, fecal-oral	Respiratory
+Human astrovirus	Mamastrovirus,Astroviridae	Human	Fecal-oral	Gastroenteritis
+Human coronavirus	Alphacoronavirus,Coronaviridae	Human	Respiratory	Respiratory
+Human cytomegalovirus	Cytomegalovirus,Herpesviridae	Human	Contact, urine, saliva	Mononucleosis, pneumonia
+Human enterovirus 68, 70	Enterovirus,Picornaviridae	Human	Fecal-oral	Diarrhea, neurological disorder
+Human herpesvirus 1	Simplexvirus,Herpesviridae	Human	Sexual contact, saliva	Skin lesions
+Human herpesvirus 2	Simplexvirus,Herpesviridae	Human	Sexual contact, saliva	Skin lesions
+Human herpesvirus 6	Roseolovirus,Herpesviridae	Human	Respiratory, contact	Skin lesions
+Human herpesvirus 7	Roseolovirus,Herpesviridae	Human	Respiratory, contact	Skin lesions
+Human herpesvirus 8	Rhadinovirus,Herpesviridae	Human	Sexual contact, saliva	Skin lymphoma
+Human immunodeficiency virus	Lentivirus,Retroviridae	Human	Sexual contact, blood	AIDS
+Human papillomavirus 1	Mupapillomavirus,Papillomaviridae	Human	Contact	Skin warts
+Human papillomavirus 2	Alphapapillomavirus,Papillomaviridae	Human	Contact	Skin warts
+Human papillomavirus 16,18	Alphapapillomavirus,Papillomaviridae	Human	Sexual	Genital warts,
+Human parainfluenza	Respirovirus,Paramyxoviridae	Human	Respiratory	Respiratory
+Human parvovirus B19	Erythrovirus,Parvoviridae	Human	Respiratory	Skin lesion
+Human respiratory syncytial virus	Pneumovirus,Paramyxoviridae	Human	Respiratory	Respiratory
+Human rhinovirus	Enterovirus,Picornaviridae	Human	Respiratory	Respiratory
+Human SARS coronavirus	Betacoronavirus,Coronaviridae	Human, palm civet	Zoonosis	Respiratory
+Human spumaretrovirus	Spumavirus,Retroviridae	Human	Contact, saliva	None
+Human T-lymphotropic virus	Deltaretrovirus,Retroviridae	Human	Sexual contact, maternal-neonatal	Leukemia
+Human torovirus	Torovirus,Coronaviridae	Human	Fecal-oral	Gastroenteritis
+Influenza A virus	Influenzavirus A,Orthomyxoviridae	Human, birds, pigs	Respiratory or Zoonosis, animal contact	Flu
+Influenza B virus	Influenzavirus B,Orthomyxoviridae	Human	Respiratory	Flu
+Influenza C virus	Influenzavirus C,Orthomyxoviridae	Human	Respiratory	Flu
+Isfahan virus	Vesiculovirus,Rhabdoviridae	Human, sandflies, gerbils	Zoonosis, arthropod bite	Undocumented, encephalitis?
+JC polyomavirus	Polyomavirus,Polyomaviridae	Human	Fecal-oral or urine	Encephalitis
+Japanese encephalitis virus	Flavivirus,Flaviviridae	Human, horses, birds, mosquitoes	Zoonosis, arthropod borne	Encephalitis
+Junin arenavirus	Arenavirus,Arenaviridae	Human, rodents	Zoonosis, fomite	Hemorrhagic fever
+KI Polyomavirus	Polyomavirus,Polyomaviridae	Human	Fecal-oral or urine	Encephalitis
+Kunjin virus	Flavivirus,Flaviviridae	Human, horses, birds, mosquitoes	Zoonosis, arthropod borne	Encephalitis
+Lagos bat virus	Lyssavirus,Rhabdoviridae	Human, mammals	Zoonosis, animal bite	Fatal encephalitis
+Lake Victoria marburgvirus	Marburgvirus,Filoviridae	Human, monkeys, bats	Zoonosis, fomite	Hemorrhagic fever
+Langat virus	Flavivirus,Flaviviridae	Human, ticks	Zoonosis, arthropod borne	Encephalitis
+Lassa virus	Arenavirus,Arenaviridae	Human, rats	Zoonosis, fomites	Hemorrhagic fever
+Lordsdale virus	Norovirus,Caliciviridae	Human	Fecal-oral	Gastroenteritis
+Louping ill virus	Flavivirus,Flaviviridae	Human, mammals, ticks	Zoonosis, arthropod bite	Encephalitis
+Lymphocytic choriomeningitis virus	Arenavirus,Arenaviridae	Human, rodents	Zoonosis, fomite	Encephalitis
+Machupo virus	Arenavirus,Arenaviridae	Human, monkeys, mouse	Zoonosis, fomite	Encephalitis
+Mayaro virus	Alphavirus,Togaviridae	Human, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+MERS coronavirus	Betacoronavirus,Coronaviridae	Human, Tomb bat	Zoonosis	Respiratory
+Measles virus	Morbilivirus,Paramyxoviridae	Human	Respiratory	Fever, rash
+Mengo encephalomyocarditis virus	Cardiovirus,Picornaviridae	Human, mouse, rabbit	Zoonosis	Encephalitis
+Merkel cell polyomavirus	Polyomavirus,Polyomaviridae	Human	-	Merkel cell carcinoma
+Mokola virus	Lyssavirus,Rhabdoviridae	Human, rodents, cat, dog shrew	Zoonosis, animal bite	Encephalitis
+Molluscum contagiosum virus	Molluscipoxvirus,Poxviridae	Human	Contact	Skin lesions
+Monkeypox virus	Orthopoxvirus,Poxviridae	Human, mouse, prairie dog	Zoonosis, contact	Skin lesions
+Mumps virus	Rubulavirus,Paramyxoviridae	Human	Respiratory, saliva	Mumps
+Murray valley encephalitis virus	Flavivirus,Flaviviridae	Human, mosquitoes	Zoonosis, arthropod bite	Encephalitis
+New York virus	Hantavirus,Bunyavirus	Human, mouse	Zoonosis, urine, saliva	Hemorrhagic fever
+Nipah virus	Henipavirus,Paramyxoviridae	Human, bats	Zoonosis, animal bite	Encephalitis
+Norwalk virus	Norovirus,Caliciviridae	Human	Fecal-oral	Gastroenteritis
+O'nyong-nyong virus	Alphavirus,Togaviridae	Human, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Orf virus	Parapoxvirus,Poxviridae	Human, mammals	Zoonosis, contact	Skin lesions
+Oropouche virus	Orthobunyavirus,Bunyaviridae	Human, wild animals(sloths)	Zoonosis, arthropod bite	Fever, joint pain
+Pichinde virus	Arenavirus,Arenaviridae	Human, rat, guinea pig	Zoonosis, fomite	Hemorrhagic fever
+Poliovirus	Enterovirus,Picornaviridae	Human, mammals	Fecal-oral	Poliomyelitis
+Punta toro phlebovirus	Phlebovirus,Bunyaviridae	Human, sandflies	Zoonosis, arthropod bite	Hemorrhagic fever
+Puumala virus	Hantavirus,Bunyavirus	Human, bank vole	Zoonosis, urine, saliva	Hemorrhagic fever
+Rabies virus	Lyssavirus,Rhabdoviridae	Human, mammals	Zoonosis, animal bite	Fatal encephalitis
+Rift valley fever virus	Phlebovirus,Bunyaviridae	Human, mammals, mosquitoes, sandflies	Zoonosis, arthropod bite	Hemorrhagic fever
+Rosavirus A	Rosavirus,Picornaviridae	Human		
+Ross river virus	Alphavirus,Togaviridae	Human, mosquitoes, marsupials	Zoonosis, arthropod bite	Fever, joint pain
+Rotavirus A	Rotavirus,Reoviridae	Human	Fecal-oral	Gastroenteritis
+Rotavirus B	Rotavirus,Reoviridae	Human	Fecal-oral	Gastroenteritis
+Rotavirus C	Rotavirus,Reoviridae	Human	Fecal-oral	Gastroenteritis
+Rubella virus	Rubivirus,Togaviridae	Human	Respiratory	Rubella
+Sagiyama virus	Alphavirus,Togaviridae	Human, horse, pig, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Salivirus A	Salivirus,Picornaviridae	Human		Gastroenteritis
+Sandfly fever sicilian virus	Phlebovirus,Bunyaviridae	Human, sandflies	Zoonosis, arthropod bite	Hemorrhagic fever
+Sapporo virus	Sapovirus,Caliciviridae	Human	Fecal-oral	Gastroenteritis
+Semliki forest virus	Alphavirus,Togaviridae	Human, birds, hedgehog, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Seoul virus	Hantavirus,Bunyavirus	Human, rats	Zoonosis, urine, saliva	Hemorrhagic fever
+Simian foamy virus	Spumavirus,Retroviridae	Human, monkeys	Zoonosis, contact	None
+Simian virus 5	Rubulavirus,Paramyxoviridae	Human, dog	Zoonosis, contact	Undocumented
+Sindbis virus	Alphavirus,Togaviridae	Human, birds, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Southampton virus	Norovirus,Caliciviridae	Human	Fecal-oral	Gastroenteritis
+St. louis encephalitis virus	Flavivirus,Flaviviridae	Human, birds, mosquitoes	Zoonosis, arthropod bite	Encephalitis
+Tick-borne powassan virus	Flavivirus,Flaviviridae	Human, ticks	Zoonosis, arthropod bite	Encephalitis
+Torque teno virus	Alphatorquevirus,Anelloviridae	Human	Sexual, blood	None
+Toscana virus	Phlebovirus,Bunyaviridae	Human, mosquitoes	Zoonosis, arthropod bite	Hemorrhagic fever
+Uukuniemi virus	Phlebovirus,Bunyaviridae	Human, ticks	Zoonosis, arthropod bite	Hemorrhagic fever
+Vaccinia virus	Orthopoxvirus,Poxviridae	Human, mammals	Contact	None
+Varicella-zoster virus	Varicellovirus,Herpesviridae	Human	Respiratory, contact	Varicella
+Variola virus	Orthopoxvirus,Poxviridae	Human	Respiratory	Variola
+Venezuelan equine encephalitis virus	Alphavirus,Togaviridae	Human, rodents, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+Vesicular stomatitis virus	Vesiculovirus,Rhabdoviridae	Human, cattle, horse, pig, flies	Zoonosis, athropod bite	Encephalitis
+Western equine encephalitis virus	Alphavirus,Togaviridae	Human, vertebrates, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain
+WU polyomavirus	Polyomavirus,Polyomaviridae	Human	Respiratory fluids or urine	None
+West Nile virus	Flavivirus,Flaviviridae	Human, birds, ticks, mosquitoes	Zoonosis, arthropod bite	Hemorrhagic fever
+Yaba monkey tumor virus	Orthopoxvirus,Poxviridae	Human, monkeys	Zoonosis, contact	None
+Yaba-like disease virus	Orthopoxvirus,Poxviridae	Human, monkeys	Zoonosis, contact	None
+Yellow fever virus	Flavivirus,Flaviviridae	Human, monkeys, mosquitoes	Zoonosis, arthropod bite	Hemorrhagic fever
+Zika virus	Flavivirus,Flaviviridae	Human, monkeys, mosquitoes	Zoonosis, arthropod bite	Fever, joint pain, rash

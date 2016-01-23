@@ -1,6 +1,6 @@
 #NIAID Priority Pathogens
 
-A [list](http://www.niaid.nih.gov/topics/biodefenserelated/biodefense/pages/cata.aspx) from the National Institute of Allergy and Infectious Diseases with 106 Category A, B, and C Priority Pathogens and Additional Emerging Infectious Diseases.
+A [list](http://www.niaid.nih.gov/topics/biodefenserelated/biodefense/pages/cata.aspx) from the National Institute of Allergy and Infectious Diseases (NIAID) with 106 Category A, B, and C Priority Pathogens and Additional Emerging Infectious Diseases.
 
 This nested list requires an R script [niaid.R](niaid.R) to convert to a five column table with the number in list, pathogen name, disease or other note, group, and category.
 

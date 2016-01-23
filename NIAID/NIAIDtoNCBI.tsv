@@ -11,7 +11,7 @@ Guanarito	Guanarito virus
 Chapare	Chapare virus	
 Lassa	Lassa virus	
 Lujo	Lujo virus	
-Hantaviruses causing Hanta Pulmonary syndrome		
+Hantaviruses causing Hanta Pulmonary syndrome	Hantavirus	24 species of hantavirus in NCBI on Jan 2016, limit to specific species
 Rift Valley Fever	Rift Valley Fever virus	
 Crimean Congo Hemorrhagic Fever	Crimean Congo Hemorrhagic Fever virus	
 Dengue	Dengue virus	
@@ -22,7 +22,7 @@ Ricin toxin	Ricinus communis
 Epsilon toxin	Clostridium perfringens	
 Staphylococcus enterotoxin B	Staphylococcus aureus	
 Typhus fever	Rickettsia prowazekii	
-Pathogenic Vibrios	Vibrio cholerae	see https://en.wikipedia.org/wiki/Vibrio. Some lists include V. alginolyticus, cincinnatiensis, damsela, fluvialis, furnissii, hollisae, metschnikovii, mimicus
+Pathogenic Vibrios	Vibrio cholerae	see https://en.wikipedia.org/wiki/Vibrio.  Some lists include V. alginolyticus, cincinnatiensis, damsela, fluvialis, furnissii, hollisae, metschnikovii, mimicus
 Pathogenic Vibrios	Vibrio parahaemolyticus	
 Pathogenic Vibrios	Vibrio vulnificus	
 Shigella species	Shigella	
@@ -52,7 +52,6 @@ Other Rickettsias	Rickettsia
 Rabies virus	Rabies virus	
 Coccidioides spp.	Coccidioides	
 Severe acute respiratory syndrome associated coronavirus	SARS coronavirus	
-MERS-CoV		
 other highly pathogenic human coronaviruses	Human coronavirus 229E	see https://en.wikipedia.org/wiki/Coronavirus
 other highly pathogenic human coronaviruses	Human Coronavirus NL63	
 other highly pathogenic human coronaviruses	Human coronavirus OC43	
