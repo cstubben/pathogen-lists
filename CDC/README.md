@@ -1,8 +1,8 @@
-#Centers for Disease Control
+###Centers for Disease Control (CDC)
 
 [1] [Nationally Notifiable Diseases](cdc_nnd.tsv)
 
-A 2016 [list](http://wwwn.cdc.gov/nndss/conditions/notifiable/2016) of Nationally Notifiable Diseases from the CDC with 110 Nationally Notifiable Conditions.
+A 2016 [list](http://wwwn.cdc.gov/nndss/conditions/notifiable/2016) with 110 Nationally Notifiable Disease conditions.
 The list requires an R script [cdc_nnd.R](cdc_nnd.R) to convert to a two column table with disease and group.  A lookup table between the infectious diseases and pathogen names is needed.
 
 
@@ -16,7 +16,7 @@ write.table(cdc, file = "CDC/CDC_nnd.tsv", sep="\t", quote=FALSE, row.names=FALS
 
 [2] [Antibiotic-Resistant pathogens](cdc_ar.tsv)
 
-A PDF [table](http://www.cdc.gov/drugresistance/threat-report-2013/pdf/ar-threats-2013-508.pdf)  on pages 16-18 in *Antibiotic resistance threats in the United States, 2013* captioned "Minimum Estimates of Morbidity and Mortality from Antibiotic-Resistant Infections"
+A PDF [table](http://www.cdc.gov/drugresistance/threat-report-2013/pdf/ar-threats-2013-508.pdf) on pages 16-18 in CDC report on *Antibiotic resistance threats in the United States, 2013* captioned "Minimum Estimates of Morbidity and Mortality from Antibiotic-Resistant Infections"
 
 This report also classifies the drug-resistant pathogens into Urgent, Serious, and Concerning threats
 

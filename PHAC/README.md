@@ -1,6 +1,6 @@
 ###Public Health Agency of Canada (PHAC)
 
-[1] A [list](http://www.phac-aspc.gc.ca/lab-bio/res/psds-ftss/index-eng.php) from PHAC with 188 pathogens and links to Pathogen Safety Data Sheets.  The list requires an R script [psds_list.R](psds_list.R) to get pathogen names and data sheet links.
+[1] A [list](http://www.phac-aspc.gc.ca/lab-bio/res/psds-ftss/index-eng.php) with 188 pathogens and links to Pathogen Safety Data Sheets.  The list requires the R script [psds_list.R](psds_list.R) to get pathogen names and data sheet links.
 
 
 ```R
@@ -38,5 +38,5 @@ PATHOGENICITY: Zoonotic disease; bubonic plague with lymphadenitis in nodes
 
 [2]  [Garner MJ, Carson C, Lingohr EJ, et al. 2015](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125155). *An Assessment of Antimicrobial Resistant Disease Threats in Canada*. PLoS One 10:e0125155
 
-A list of 32 antimicrobial resistance pathogens and total risk scores from Table 2 and Table S1 published by researchers from Public Health Agency of Canada.
+A list of 32 antimicrobial resistance pathogens and total risk scores from Table 2 and Table S1 published by researchers from PHAC.
 
