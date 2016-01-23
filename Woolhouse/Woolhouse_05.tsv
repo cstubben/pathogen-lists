@@ -1,0 +1,178 @@
+pathogen	group
+Andes virus	virus
+Australian bat lyssavirus	virus
+B19 virus	virus
+Bagaza virus	virus
+Banna virus	virus
+Barmah Forest virus	virus
+California encephalitis virus	virus
+Cercopithecinae herpesvirus	virus
+Chikungunya virus	virus
+Crimean-Congo hemorrhagic fever	virus
+Dengue virus	virus
+Eastern equine encephalitis virus	virus
+Tickborne encephalitis virus	virus
+Guama virus	virus
+Guanarito virus	virus
+Hantaan virus	virus
+Hendra virus	virus
+Hepatitis A virus	virus
+Hepatitis B virus	virus
+Hepatitis C virus	virus
+Hepatitis E virus	virus
+Hepatitis G virus	virus
+Human astrovirus	virus
+Human enterovirus B	virus
+Human herpesvirus 1	virus
+Human herpesvirus 2	virus
+Human herpesvirus 3	virus
+Human herpesvirus 5	virus
+Human herpesvirus 8	virus
+Human immunodeficiency virus 1	virus
+Human immunodeficiency virus 2	virus
+Human papillomavirus	virus
+Human T-lymphotropic virus 1	virus
+Human T-lymphotropic virus 2	virus
+Influenza A virus	virus
+Japanese encephalitis virus	virus
+Junin virus	virus
+Kyasanur Forest disease virus	virus
+Laguna Negra virus	virus
+Lassa virus	virus
+Machupo virus	virus
+Marburg virus	virus
+Mayaro virus	virus
+Measles virus	virus
+Menangle virus	virus
+Monkeypox virus	virus
+Murray Valley encephalitis virus	virus
+Nipah virus	virus
+Norwalk virus	virus
+O'nyong-nyong virus	virus
+Oropouche virus	virus
+Picobirnavirus	virus
+Poliovirus	virus
+Puumala virus	virus
+Rabies virus	virus
+Reston Ebolavirus	virus
+Rift Valley fever virus	virus
+Ross River virus	virus
+Rotavirus A	virus
+Rotavirus B	virus
+Rotavirus C	virus
+Sabia virus	virus
+Salehabad virus	virus
+Sandfly fever Naples virus	virus
+Severe acute respiratory syndrome coronavirus	virus
+Seoul virus	virus
+Sin Nombre virus	virus
+Sindbis virus	virus
+St. Louis encephalitis virus	virus
+Venezuelan equine encephalitis virus	virus
+Wesselsbron virus	virus
+West Nile virus	virus
+Western equine encephalitis virus	virus
+Yellow fever virus	virus
+Zaire Ebolavirus	virus
+Zika virus	virus
+Bovine spongiform encephalopathy agent	virus
+Aeromonas caviae	bacteria
+Aeromonas hydrophila	bacteria
+Aeromonas veronii bv. sobria	bacteria
+Anaplasma phagocytophila	bacteria
+Bacillus anthracis	bacteria
+Bordetella pertussis	bacteria
+Borrelia burgdorferi	bacteria
+Brucella melitensis	bacteria
+Campylobacter fetus	bacteria
+Campylobacter jejuni	bacteria
+Chlamydia trachomatis	bacteria
+Clostridium botulinum	bacteria
+Clostridium difficile	bacteria
+Corynebacterium amycolatum	bacteria
+Corynebacterium diphtheriae	bacteria
+Ehrlichia chaffeensis	bacteria
+Ehrlichia ewingii	bacteria
+Enterococcus faecalis	bacteria
+Enterococcus faecium	bacteria
+Escherichia coli	bacteria
+Francisella tularensis	bacteria
+Haemophilus ducreyi	bacteria
+Haemophilus influenzae	bacteria
+Klebsiella pneumoniae	bacteria
+Legionella pneumophila	bacteria
+Leptospira interrogans	bacteria
+Listeria monocytogenes	bacteria
+Mycobacterium avium	bacteria
+Mycobacterium bovis	bacteria
+Mycobacterium fortuitum	bacteria
+Mycobacterium haemophilum	bacteria
+Mycobacterium leprae	bacteria
+Mycobacterium marinum	bacteria
+Mycobacterium tuberculosis	bacteria
+Mycobacterium ulcerans	bacteria
+Neisseria gonorrhoeae	bacteria
+Neisseria meningitides	bacteria
+Pseudomonas aeruginosa	bacteria
+Rickettsia prowazekii	bacteria
+Salmonella enteritidis	bacteria
+Salmonella typhi	bacteria
+Salmonella typhimurium	bacteria
+Serratia marcescens	bacteria
+Shigella dysenteriae	bacteria
+Staphylococcus aureus	bacteria
+Staphylococcus epidermidis	bacteria
+Streptococcus pneumoniae	bacteria
+Streptococcus pyogenes	bacteria
+Treponema pallidum	bacteria
+Vibrio cholerae	bacteria
+Vibrio parahaemolyticus	bacteria
+Vibrio vulnificus	bacteria
+Yersinia enterocolitica	bacteria
+Yersinia pestis	bacteria
+Aspergillus fumigatus	fungi
+Blastomyces dermatitidis	fungi
+Candida albicans	fungi
+Candida glabrata	fungi
+Candida krusei	fungi
+Coccidioides immitis	fungi
+Cryptococcus neoformans	fungi
+Fusarium moniliforme	fungi
+Fusarium oxysporum	fungi
+Fusarium solani	fungi
+Histoplasma capsulatum	fungi
+Malassezia pachydermatis	fungi
+Penicillium marneffei	fungi
+Pneumocystis carinii	fungi
+Scedosporium prolificans	fungi
+Trichosporon beigelii	fungi
+Encephalitozoon cuniculi	fungi
+Encephalitozoon hellem	fungi
+Encephalitozoon intestinalis	fungi
+Enterocytozoon bieneusi	fungi
+Nosema connori	fungi
+Trachipleistophora hominis	fungi
+Babesia microti	protozoa
+Cryptosporidium hominis	protozoa
+Cryptosporidium parvum	protozoa
+Cyclospora cayetanensis	protozoa
+Giardia duodenalis	protozoa
+Isospora belli	protozoa
+Leishmania donovani	protozoa
+Leishmania infantum	protozoa
+Plasmodium falciparum	protozoa
+Plasmodium vivax	protozoa
+Toxoplasma gondii	protozoa
+Trichomonas vaginalis	protozoa
+Trypanosoma brucei	protozoa
+Trypanosoma cruzi	protozoa
+Anisakis simplex	helminths
+Echinococcus granulosus	helminths
+Loa loa	helminths
+Metorchis conjunctus	helminths
+Onchocerca volvulus	helminths
+Schistosoma mansoni	helminths
+Strongyloides stercoralis	helminths
+Taenia solium	helminths
+Trichinella spiralis	helminths
+Wuchereria bancrofti	helminths

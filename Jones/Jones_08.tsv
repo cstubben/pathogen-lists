@@ -1,0 +1,336 @@
+Pathogen	Year	Type	Zoonotic	Resistance	Transmission	Driver	Location
+Acinetobacter baumannii gentamycin-res	1993	bacteria		drug-resistant		Antimicrobial agent use	Australia (Sir Charles Gairdner Hospital, Perth)
+Acinetobacter baumannii imipenem-res	1985	bacteria		drug-resistant		Antimicrobial agent use	UK (Edinburgh Royal Infirmary Ecosse, Edinburgh)
+Acinetobacter baumannii multiple drug-res	1998	bacteria		drug-resistant		Antimicrobial agent use	Taiwan (National Taiwan University Hospital, T'ai-pei)
+Acinetobacter baumannii polymixin-res	2001	bacteria		drug-resistant		Antimicrobial agent use	US (New York Hospital Medical Center of Queens, New York)
+Bacillus anthracis	1979	bacteria	wildlife			Medical industry changes	Russia (Yekaterinburg)
+Bartonella bacilliformis	1987	bacteria			vector	War & famine	Ecuador (Pajan)
+Bartonella bacilliformis chloramphenicol-res	1988	bacteria		drug-resistant	vector	Antimicrobial agent use	Peru
+Bartonella elizabethae	1986	bacteria	wildlife			Human susceptibility to infection	US (St. Elizabeth's Hospital, Brighton, Massachusetts)
+Bartonella henselae	1987	bacteria	non-wildlife			Human susceptibility to infection	US (Oklahoma City, Oklahoma)
+Bartonella quintana	1949	bacteria			vector	War & famine	Poland
+Bordetella pertussis	1982	bacteria				Medical industry changes	US
+Borrelia bugdorferi	1962	bacteria	wildlife		vector	Land use changes	US (Barnstable, Massachusetts)
+Brucella melitensis	1995	bacteria	wildlife			Agricultural industry changes	Malta and Gozo
+Burkholderia cepacia	1981	bacteria				Human susceptibility to infection	Canada (Toronto, Province d'Ontario)
+Burkholderia pseudomallei	1965	bacteria	wildlife			War & famine	Vietnam (Cu Chi)
+Campylobacter fetus	1945	bacteria	wildlife			Human susceptibility to infection	France (Basse-Normandie)
+Campylobacter jejuni	1957	bacteria	wildlife			Medical industry changes	US (Boston, Massachusetts; Minneapolis, Minnesota; Los Angeles, California)
+Campylobacter jejuni fluoroquinolone-res	1986	bacteria	wildlife	drug-resistant		Agricultural industry changes	Switzerland (Zurich)
+Chlamydia pneumoniae TWAR strain	1965	bacteria				Unspecified	Taiwan
+Chlamydia trachomatis pandrug-res	1997	bacteria		drug-resistant		Antimicrobial agent use	US (Atlanta, Georgia)
+Clostridium botulinum	1976	bacteria	wildlife			Food industry changes	US (California)
+Clostridium difficile	1973	bacteria	non-wildlife			Human susceptibility to infection	US (Saint Louis, US)
+Clostridium difficile clindamycin-resistance	1989	bacteria		drug-resistant		Antimicrobial agent use	US (Albany, New York)
+Corynebacterium diphtheriae	1985	bacteria				Breakdown of public health measures	Russia (Smolensk)
+Corynebacterium jeikeium	1970	bacteria				Human susceptibility to infection	US (Cornell Medical Center, New York, New York)
+Corynebacterium jeikeium cipro-res	1987	bacteria		drug-resistant		Antimicrobial agent use	UK (Belfast)
+Enterococcus faecalis gent-res	1978	bacteria	non-wildlife	drug-resistant		Agricultural industry changes	France (Paris)
+Enterococcus faecalis vanc-res	1986	bacteria	non-wildlife	drug-resistant		Agricultural industry changes	UK (King's College Hospital, Dulwich, London)
+Enterococcus faecium amp-res	1989	bacteria	non-wildlife	drug-resistant		Agricultural industry changes	US (Boston, Massachusetts)
+Enterococcus faecium gent-res	1986	bacteria	non-wildlife	drug-resistant		Antimicrobial agent use	US (Children's Hospital Medical Center, Boston, Massachusetts)
+Enterococcus faecium linezolid-res	2000	bacteria	non-wildlife	drug-resistant		Agricultural industry changes	US (Chicago, Illinois)
+Enterococcus faecium pen-res	1989	bacteria	non-wildlife	drug-resistant		Antimicrobial agent use	US (Philadelphia,Pennsylvania)
+Enterococcus faecium vanc-res	1986	bacteria	non-wildlife	drug-resistant		Agricultural industry changes	UK (King's College Hospital, Dulwich, London)
+Escherichia coli non-O157:H7	1992	bacteria	wildlife			Food industry changes	Italy (Lombardia)
+Escherichia coli O103:H2	1980	bacteria	wildlife			Food industry changes	UK
+Escherichia coli O104:H2	1984	bacteria	wildlife			Food industry changes	UK (Oxford)
+Escherichia coli O104:H21	1994	bacteria	wildlife			Food industry changes	US (Helena, Montana)
+Escherichia coli O111:H-	1953	bacteria	wildlife			Food industry changes	US (Fort Belvoir, Virginia)
+Escherichia coli O111:H–	1943	bacteria	wildlife			Food industry changes	UK (London)
+Escherichia coli O111:H2	1980	bacteria	wildlife			Food industry changes	Australia (Subiaco)
+Escherichia coli O111:H8	1985	bacteria	wildlife			Food industry changes	Germany (Saarbrucken)
+Escherichia coli O118:H12	1984	bacteria	wildlife			Food industry changes	Peru
+Escherichia coli O118:H16	1990	bacteria	wildlife			Food industry changes	Germany (Bayern; Nordrhein-westfalen; Schleswig-Holstein)
+Escherichia coli O118:H2	1996	bacteria	wildlife			Food industry changes	Japan (Komatsu, Ishikawa-ken)
+Escherichia coli O118:H30	1990	bacteria	wildlife			Food industry changes	Canada (Guelph, Province d'Ontario)
+Escherichia coli O145:H-	1980	bacteria	wildlife			Food industry changes	US (South Dakota)
+Escherichia coli O145:H5	1990	bacteria	wildlife			Food industry changes	Japan
+Escherichia coli O153:H25	1984	bacteria	wildlife			Food industry changes	UK (Belfast)
+Escherichia coli O157:H7	1975	bacteria	wildlife			Food industry changes	US (California)
+Escherichia coli O163:H19	1984	bacteria	wildlife			Food industry changes	UK (Southampton)
+Escherichia coli O26:H- (nonmotile)	1952	bacteria	wildlife			Food industry changes	Switzerland
+Escherichia coli O26:H11	1965	bacteria	wildlife			Food industry changes	Italy (Palermo)
+Escherichia coli O4:H-	1983	bacteria	wildlife			Food industry changes	US (Georgia)
+Escherichia coli O4:H5	1980	bacteria	wildlife			Food industry changes	Australia (Subiaco)
+Escherichia coli O45:H2	1983	bacteria	wildlife			Food industry changes	US (Michigan)
+Escherichia coli O5:H-	1980	bacteria	wildlife			Food industry changes	UK
+Escherichia coli O55:H7	1980	bacteria	wildlife			Food industry changes	UK
+Escherichia coli O91:H–	1995	bacteria	wildlife			Food industry changes	Italy; Germany
+Francisella tularensis	1966	bacteria	wildlife		vector	Agricultural industry changes	Sweden (Kall, Jamtlands Lan; Hogarna Jamtlands Lan)
+Haemophilus ducreyi	2002	bacteria				Human susceptibility to infection	Europe
+Haemophilus influenzae	2000	bacteria				Human susceptibility to infection	Italy
+Haemophilus influenzae amp/cm/tmp-smz-res	1979	bacteria		drug-resistant		Antimicrobial agent use	Thailand (Bangkok Noi)
+Haemophilus influenzae amp-res (beta-lac positive)	1972	bacteria		drug-resistant		Antimicrobial agent use	Germany
+Haemophilus influenzae biogroup aegyptius	1984	bacteria				Medical industry changes	Brazil (Londrina, Estado do Parana)
+Haemophilus influenzae chlor/amp-res	1979	bacteria		drug-resistant		Antimicrobial agent use	Thailand (Bangkok Noi)
+Haemophilus influenzae chlor/tc-res	1975	bacteria		drug-resistant		Antimicrobial agent use	Netherlands
+Haemophilus influenzae chlor-res	1975	bacteria		drug-resistant		Antimicrobial agent use	US (Texas)
+Helicobacter cinaedi	1984	bacteria	non-wildlife			Human demographics & behavior	US (University of Texas M. D. Anderson Hospital and Tumor Institute, Houston, Texas)
+Helicobacter fennelliae	1980	bacteria	non-wildlife			Human demographics & behavior	US (Harborview Medical Center, Seattle, Washington)
+Klebsiella pneumoniae	1981	bacteria	non-wildlife			Human susceptibility to infection	Taiwan (T'ai-pei)
+Klebsiella pneumoniae late generation cephalosporins-res	1983	bacteria		drug-resistant		Antimicrobial agent use	Germany (Frankfurt, Land Brandenburg)
+Legionella pneumophila	1976	bacteria				Other industries	US (Philadelphia, Pennsylvania)
+Leptospira fainei	1995	bacteria	non-wildlife			Agricultural industry changes	Australia (Victoria)
+Leptospira interrogans	1950	bacteria	wildlife			War & famine	Malaysia
+Leptospira weilii	2000	bacteria	wildlife			Land use changes	Malaysia (Sabah)
+Listeria monocytogenes	1979	bacteria	wildlife			Agricultural industry changes	Canada (Prince Edward Island, Nova Scotia, New Brunswick)
+Mycobacterium abscessus	1950	bacteria				Human susceptibility to infection	US (Saint Louis, Missouri)
+Mycobacterium asiaticum	1971	bacteria	wildlife			Human susceptibility to infection	Australia (Brisbane, Queensland)
+Mycobacterium bovis	1964	bacteria	wildlife			Human susceptibility to infection	Canada (Ontario)
+Mycobacterium bovis multiple drug-res	1989	bacteria				Human susceptibility to infection	Brazil
+Mycobacterium celatum	1989	bacteria				Human susceptibility to infection	US (California)
+Mycobacterium chelonae	1966	bacteria				Human susceptibility to infection	UK (West Hartlepool)
+Mycobacterium conspicuum	1995	bacteria				Human susceptibility to infection	Germany (Hannover, Land Niedersachsen)
+Mycobacterium genavense	1989	bacteria	non-wildlife			Human susceptibility to infection	Switzerland (Geneve)
+Mycobacterium gordonae	1967	bacteria	non-wildlife			Human susceptibility to infection	US (Baltimore, Maryland)
+Mycobacterium haemophilum	1971	bacteria	unspecified			Human susceptibility to infection	Israel (Meir Hospital, Kafr Saba)
+Mycobacterium kansasii	1955	bacteria	wildlife			Human susceptibility to infection	US (Dallas County, Texas)
+Mycobacterium malmoense	1968	bacteria	unspecified			Human susceptibility to infection	Sweden (Malmo)
+Mycobacterium marinum	1951	bacteria	wildlife			Agricultural industry changes	Sweden (Orebro)
+Mycobacterium scrofulaceum	1951	bacteria	wildlife			Human susceptibility to infection	Canada (Montreal Children's Hospital, Montreal)
+Mycobacterium shimoidei	1975	bacteria				Human susceptibility to infection	Japan
+Mycobacterium simiae	1970	bacteria	wildlife			Human susceptibility to infection	Senegal (Dakar, Region de Dakar)
+Mycobacterium szulgai	1984	bacteria	unspecified			Human susceptibility to infection	Israel
+Mycobacterium tuberculosis	1981	bacteria	wildlife			Human susceptibility to infection	US (Miami, Florida)
+Mycobacterium tuberculosis isoniazid-res	1981	bacteria				War & famine	North Korea; South Korea
+Mycobacterium tuberculosis multiple drug-res	1991	bacteria		drug-resistant		Antimicrobial agent use	US (New York, New York)
+Mycobacterium xenopi	1965	bacteria	non-wildlife			Human susceptibility to infection	UK (London)
+Mycoplasma fermentans	1950	bacteria				Human susceptibility to infection	Netherlands (Groningen)
+Mycoplasma genitalium	1981	bacteria				Human demographics & behavior	UK (St. Mary’s Hospital, London)
+Neisseria gonorrhoeae fluoroquinolones-res	1992	bacteria				International travel & commerce	Australia (Sydney)
+Neisseria gonorrhoeae pen/tet/cipr-res	1999	bacteria		drug-resistant		Antimicrobial agent use	Japan (Kitakyushu)
+Neisseria gonorrhoeae penicillin-res	1956	bacteria				War & famine	UK (Whitechapel Clinic, London Hospital, London)
+Neisseria gonorrhoeae tetracycline-res	1983	bacteria		drug-resistant		Antimicrobial agent use	US (Nashua, New Hampshire)
+Neisseria meningitidis pen-res	1985	bacteria		drug-resistant		Antimicrobial agent use	Spain (Madrid)
+Neisseria meningitidis serogroup A termed subgroup III	1966	bacteria				International travel & commerce	China (Jiangsu, Hubei)
+Neisseria meningitidis serogroup W-135	2000	bacteria				International travel & commerce	Saudia Arabia (Makkah; Al Madinah al Munawwarah; Jedda)
+Neisseria weaveri	1960	bacteria	unspecified			Unspecified	US (Washington)
+Nocardia veterana	2001	bacteria				Human susceptibility to infection	Australia (Austin & Repatriation Medical Center,Heidelberg, Victoria)
+Orientia tsutsugamushi	1948	bacteria	unspecified		vector	War & famine	Mount Fuji
+Pseudomonas aeruginosa ceftazidimide-res	1985	bacteria		drug-resistant		Antimicrobial agent use	Germany (Hygeine Institute of Frankfurt, Frankfurt, Land Brandenburg)
+Pseudomonas aeruginosa fluoroquinolone-res	1987	bacteria		drug-resistant		Antimicrobial agent use	US (Stamford, Connecticut)
+Pseudomonas aeruginosa imipenem-res	1988	bacteria		drug-resistant		Antimicrobial agent use	Japan
+Rhodococcus equi	1966	bacteria	wildlife			Human susceptibility to infection	US (Minneapolis, Minnesota)
+Salmonella enterica serovar typhi 3rd generation cephalosporins-res	1999	bacteria	unspecified	drug-resistant		Agricultural industry changes	Bangladesh (Dhaka Shishu Childrens Hospital, Dhaka)
+Salmonella enterica serovar typhi chlor-res	1950	bacteria		drug-resistant		Antimicrobial agent use	UK (Sheffield Royal Infirmary, Sheffield)
+Salmonella enterica serovar typhi cipro-res	1991	bacteria		drug-resistant		Antimicrobial agent use	Nepal
+Salmonella enterica serovar typhi CT18	1993	bacteria		drug-resistant		Antimicrobial agent use	Vietnam (The Friendship Hospital, Cao Lanh, Tinh Dong Thap)
+Salmonella enterica serovar typhi multidrug-res	1990	bacteria		drug-resistant		Antimicrobial agent use	Pakistan
+Salmonella enteritidis	1979	bacteria	wildlife			Food industry changes	Hungary (Dunaszentgyorgy)
+Salmonella enteritidis phage type 4	1985	bacteria	wildlife			Agricultural industry changes	UK (England; Wales)
+Salmonella paratyphi multidrug-res	1997	bacteria		drug-resistant		Antimicrobial agent use	Pakistan (Rawalpindi)
+Salmonella typhimurium drug-res	1963	bacteria	wildlife	drug-resistant		Agricultural industry changes	UK (England; Wales)
+Salmonella typhimurium multidrug-res	1965	bacteria	wildlife	drug-resistant		Agricultural industry changes	UK (England; Wales)
+Serratia marcescens	1998	bacteria				Medical industry changes	Turkey (Ankara)
+Serratia marcescens carbapenem-res	1992	bacteria		drug-resistant		Antimicrobial agent use	US (UCLA Medical Center, Los Angeles)
+Serratia marcescens fluoroquinolone-res	1986	bacteria		drug-resistant		Antimicrobial agent use	Taiwan
+Serratia odorifera biogroup I	1987	bacteria	wildlife			Human susceptibility to infection	US (Tampa, Florida)
+Shigella dysenteriae	1998	bacteria				Breakdown of public health measures	Indonesia (Bali; Kalimantan; Batam)
+Shigella dysenteriae multiple drug-res	1955	bacteria		drug-resistant		Antimicrobial agent use	China (Hong Kong)
+Shigella dysenteriae nalidixic ac.-res	1982	bacteria		drug-resistant		Antimicrobial agent use	Congo (Kivu)
+Shigella dysenteriae sulfa-res	1949	bacteria		drug-resistant		Antimicrobial agent use	Japan
+Shigella dysenteriae tet-res	1953	bacteria		drug-resistant		Antimicrobial agent use	Japan
+Staphylococcus aureus	1980	bacteria				Medical industry changes	US (Minnesota)
+Staphylococcus aureus meth-res	1960	bacteria	unspecified	drug-resistant		Agricultural industry changes	UK (England); Canada; US
+Staphylococcus aureus multiple drug-res	1976	bacteria		drug-resistant		Antimicrobial agent use	UK (London)
+Staphylococcus aureus penicillin-res	1942	bacteria		drug-resistant		Antimicrobial agent use	US (Massachusetts)
+Staphylococcus aureus vanc-res	2002	bacteria		drug-resistant		Antimicrobial agent use	US (Dearborn, Michigan)
+Staphylococcus epidermidis methicillin-res	1962	bacteria		drug-resistant		Antimicrobial agent use	US (Boston, Massachusetts)
+Staphylococcus epidermidis rifampin-res	1994	bacteria		drug-resistant		Antimicrobial agent use	US (Hahnemann University, Philadelphia, Pennsylvania)
+Staphylococcus haemolyticus multiple drug-res	1997	bacteria		drug-resistant		Antimicrobial agent use	India (New Delhi)
+Staphylococcus haemolyticus vanc-res	1984	bacteria		drug-resistant		Antimicrobial agent use	US (Albany, New York)
+Staphylococcus lugdunensis	1988	bacteria	wildlife			Human susceptibility to infection	France (Lyon)
+Staphylococcus schleiferi	1988	bacteria				Unspecified	France (Lyon)
+Stenotrophomonas maltophila	1943	bacteria		drug-resistant		Antimicrobial agent use	UK (Stafford)
+Streptococcus iniae	1995	bacteria	unspecified			Agricultural industry changes	Canada (Toronto)
+Streptococcus pneumoniae macrolide-res	1978	bacteria		drug-resistant		Antimicrobial agent use	France
+Streptococcus pneumoniae multiple drug-res	1977	bacteria		drug-resistant		Antimicrobial agent use	South Africa (Baragwanath Hospital, Johannesburg)
+Streptococcus pneumoniae tet-res	1967	bacteria		drug-resistant		Antimicrobial agent use	Australia (Sydney)
+Streptococcus pyogenes group A	1986	bacteria				Unspecified	US (Rancho Mirage, California)
+Treponema pallidum	1989	bacteria				War & famine	Moldova; Russia; Kazakhstan; Ukraine
+Tropheryma whippelii	1967	bacteria				Unspecified	France
+Vibrio cholerae O1 El Tor	1961	bacteria				Breakdown of public health measures	Indonesia (Celebes Island; Sulawesi)
+Vibrio cholerae O139	1992	bacteria				International travel & commerce	India (Madras)
+Vibrio damsela	1971	bacteria	wildlife			Climate & weather	US (Louisiana)
+Vibrio fluvialis	1965	bacteria	unspecified			Climate & weather	Bangladesh (Dhaka)
+Vibrio hollisae	1976	bacteria	unspecified			Climate & weather	US (Maryland)
+Vibrio metschnikovii	1978	bacteria				Climate & weather	US (Chicago, Illinois)
+Vibrio mimicus	1977	bacteria	unspecified			Climate & weather	US (Louisiana)
+Vibrio parahaemolyticus	1950	bacteria	unspecified			Climate & weather	Japan (Matsubara, Osaka-fu)
+Vibrio vulnificus	1964	bacteria	wildlife			Agricultural industry changes	US (Virginia)
+Yersinia enterocolitica O:3	1949	bacteria	non-wildlife			International travel & commerce	Switzerland
+Yersinia enterocolitica O:5, 27	1960	bacteria	non-wildlife			International travel & commerce	Germany
+Yersinia enterocolitica O:9	1968	bacteria	non-wildlife			International travel & commerce	Finland
+Yersinia pestis	1970	bacteria	wildlife		vector	Land use changes	US (New Mexico)
+Yersinia pestis multiple drug-res	1995	bacteria	wildlife	drug-resistant	vector	Antimicrobial agent use	Madagascar (Province of Fianarantsoa)
+Candida albicans	1981	fungi	unspecified			Human susceptibility to infection	US (UCLA Medical Center, Los Angeles, California)
+Candida albicans fluconazole-res	1985	fungi	unspecified	drug-resistant		Antimicrobial agent use	UK (London)
+Candida albicans ketoconazole-res	1981	fungi	unspecified	drug-resistant		Antimicrobial agent use	US (Denver, Colorado)
+Candida albicans micronazole-res	1977	fungi	unspecified	drug-resistant		Antimicrobial agent use	UK (Carshalton)
+Candida glabrata fluconazole-res	1988	fungi	unspecified	drug-resistant		Antimicrobial agent use	UK (Bristol)
+Candida krusei	1977	fungi	unspecified	drug-resistant		Antimicrobial agent use	US (Johns Hopkins Medical Center, Baltimore, Maryland)
+Candida tropicalis	1974	fungi	unspecified			Human susceptibility to infection	US (Memorial Sloan-Kettering, New York, New York)
+Coccidioides immitis	1990	fungi	wildlife			Climate & weather	US (Kern County, California)
+Cryptococcus neoformans	1950	fungi	wildlife			Human susceptibility to infection	Congo (Lubumbashi)
+Fusarium moniliforme	1978	fungi				Human susceptibility to infection	US (Bethesda, Maryland)
+Fusarium oxysporum	1972	fungi				Human susceptibility to infection	US (Morgantown, West Virginia)
+Fusarium solani	1973	fungi				Human susceptibility to infection	US (Kansas)
+Hansenula anomala	1984	fungi				Human susceptibility to infection	UK (Liverpool Maternity Hospital, Liverpool)
+Histoplasma capsulatum	1980	fungi	wildlife			Human susceptibility to infection	US (Indianapolis, Indiana)
+Malassezia pachydermatis	1984	fungi	wildlife			Human susceptibility to infection	US (Palo Alto, California)
+Penicillium marneffei	1970	fungi	wildlife			International travel & commerce	US (South Carolina)
+Pneumocystis carinii	1942	fungi				Human susceptibility to infection	Denmark
+Scedosporium inflatum	1981	fungi				Medical industry changes	US (Farmington, Maine)
+Scedosporium prolificans	1991	fungi				Human susceptibility to infection	Spain
+Trichosporon beigelii	1970	fungi	unspecified			Human susceptibility to infection	South Africa (Durban)
+Wangiella dermatitidis	1980	fungi				Human susceptibility to infection	Us (South Carolina)
+Anisakis simplex	1955	helminths	wildlife			Human demographics & behavior	Netherlands
+Echinococcus granulosus	1971	helminths	wildlife			Breakdown of public health measures	Bulgaria
+Loa ioa	1990	helminths			vector	International travel & commerce	Guinea
+Malassezia furfur	1981	helminths	non-wildlife			Human susceptibility to infection	US (Cleveland, Ohio)
+Metorchis conjunctus	1993	helminths	wildlife			Agricultural industry changes	Canada (Montreal)
+Schistosoma japonicum	1950	helminths	wildlife			War & famine	China (Zhejiang; Fujian)
+Schistosoma mansoni	1999	helminths	wildlife			International travel & commerce	Oman (Salalah)
+Strongyloides stercoralis	1949	helminths				War & famine	Vietnam
+Taenia solium	1978	helminths	non-wildlife			International travel & commerce	Australia (Sydney, New South Wales)
+Trichinella spiralis	1970	helminths	wildlife			Breakdown of public health measures	Argentina; China; Mexico
+Wuchereria bancrofti	1965	helminths			vector	Land use changes	Egypt
+New variant Cruetzfeld Jacob Disease	1994	prion	non-wildlife			Agricultural industry changes	UK
+Angiostrongylus cantonensis	1945	protozoa	wildlife			International travel & commerce	Taiwan
+Babesia divergens	1957	protozoa	non-wildlife		vector	Land use changes	Slovenia, Croatia, BosniaHert, Montenegro&Serbia, Macedonia
+Babesia microti	1969	protozoa	wildlife		vector	Land use changes	US (Nantucket, Massachusetts)
+Babesia microti-like	1956	protozoa	wildlife		vector	Human susceptibility to infection	Croatia (Strmec)
+Babesia microti-like WA1-type	1991	protozoa	wildlife		vector	Human susceptibility to infection	US (Washington)
+Balamuthia mandrillaris	1990	protozoa	wildlife			Human susceptibility to infection	US (Kings County Hospital Center, New York)
+Brachiola vesicularum	1998	protozoa				Human susceptibility to infection	Czech Republic (Praha)
+Cryptosporidium parvum	1974	protozoa	non-wildlife			Land use changes	US (Olympia, Washington)
+Cyclospora cayetanensis	1977	protozoa	unspecified			Human susceptibility to infection	Papua New Guinea (Finschhafen)
+Encephalitozoon cuniculi	1987	protozoa	wildlife			Human susceptibility to infection	Switzerland (Geneva)
+Encephalitozoon hellem	1990	protozoa	wildlife			Human susceptibility to infection	US (Texas: New York)
+Encephalitozoon intestinalis	1990	protozoa				Human susceptibility to infection	US (Newark, New Jersey)
+Enterocytozoon bieneusi	1985	protozoa	non-wildlife			Human susceptibility to infection	Haiti
+Giardia duodenalis	1975	protozoa				Human demographics & behavior	US (Atlanta, Georgia)
+Isospora belli	1981	protozoa				Human susceptibility to infection	US (Miami, Florida)
+Leishmania donovani	1988	protozoa	wildlife		vector	Human susceptibility to infection	Germany
+Leishmania infantum	1990	protozoa	wildlife		vector	Land use changes	Spain; France; Portugal; Italy
+Leishmania tropica	1990	protozoa	wildlife		vector	War & famine	Saudi Arabia
+Nosema connori	1973	protozoa				Human susceptibility to infection	Japan
+Plasmodium falciparum chloroquine-res	1957	protozoa			vector	Antimicrobial agent use	Venezuela (Trujillo, Estado Trujillo)
+Plasmodium falciparum mefloquine-res	1982	protozoa			vector	Antimicrobial agent use	Thailand (Trat)
+Plasmodium falciparum multiple drug-res	1991	protozoa			vector	Land use changes	Thailand (Mae Sot, Changwat Tak; Bo Rai)
+Plasmodium falciparum proguanil-res	1948	protozoa			vector	Antimicrobial agent use	Malaysia
+Plasmodium falciparum quinine-res	1960	protozoa			vector	Antimicrobial agent use	Thailand (Trat)
+Plasmodium falciparum sulfadoxine-pyrimethamine-res	1981	protozoa			vector	Antimicrobial agent use	Thailand (Sa Kaeo)
+Plasmodium vivax	1964	protozoa			vector	Breakdown of public health measures	India
+Plasmodium vivax chloroquine-res	1989	protozoa			vector	War & famine	Papua New Guinea (East New Britain)
+Plasmodium vivax proguanil-res	1948	protozoa		drug-resistant	vector	Antimicrobial agent use	Malaysia
+Toxoplasma gondii	1981	protozoa	non-wildlife			Human susceptibility to infection	Canada (Montreal); US (New York, New York; Texas; Illinois); Brussels; Haiti
+Trachipleistophora anthropophthera	1998	protozoa				Human susceptibility to infection	Czech Republic
+Trachipleistophora hominis	1995	protozoa				Human susceptibility to infection	Australia (Sydney, New South Wales)
+Trichomonas vaginalis	1964	protozoa				Human susceptibility to infection	US (Philadelphia, Pennsylvania)
+Trichomonas vaginalis metronidazole-res	1979	protozoa		drug-resistant		Antimicrobial agent use	Austria (Wien)
+Trypanosoma brucei gambiense	1960	protozoa	wildlife		vector	War & famine	Democratic Republic of the Congo
+Trypanosoma brucei rhodiensis	1970	protozoa	wildlife		vector	Breakdown of public health measures	Sudan (Al Istiwa'iyah)
+Trypanosoma cruzi	1968	protozoa	wildlife		vector	Land use changes	Brazil (Belem, Estado do Para)
+Coxiella burnetii	1940	rickettsia	wildlife			War & famine	Slovenia, Croatia, BosniaHerz, Serbia&Montenegro, Albania, Macedonia
+Ehrlichia canis	1986	rickettsia	non-wildlife		vector	Land use changes	US (Gurdon, Arkansas)
+Ehrlichia chaffeensis	1990	rickettsia	wildlife		vector	Land use changes	US (Fort Chaffee, Arkansas)
+Ehrlichia equi	1990	rickettsia	wildlife		vector	Land use changes	US (Duluth, Minnesota)
+Ehrlichia ewingii	1996	rickettsia	wildlife		vector	Human susceptibility to infection	US (Missouri)
+Ehrlichia phagocytophila	1990	rickettsia	wildlife		vector	Land use changes	US (Duluth, Minnesota)
+Ehrlichia sennetsu	1953	rickettsia	non-wildlife		vector	International travel & commerce	Japan (Kyushu Island)
+Rickettsia africae	1992	rickettsia	wildlife		vector	International travel & commerce	Zimbabwe (Harare)
+Rickettsia akari	1946	rickettsia	wildlife		vector	Human demographics & behavior	US (Queens, New York, New York)
+Rickettsia felis	1991	rickettsia	wildlife		vector	Unspecified	US (Nueces County, Texas)
+Rickettsia helvetica	1997	rickettsia	wildlife		vector	Land use changes	Sweden (Uppsala)
+Rickettsia honei	1990	rickettsia	wildlife		vector	International travel & commerce	Thailand (University Hospital, Chiang Mai)
+Rickettsia japonica	1984	rickettsia	wildlife		vector	Unspecified	Japan (Shikoku)
+Rickettsia mongolotimonae	1996	rickettsia	wildlife		vector	International travel & commerce	France (Marseille)
+Rickettsia prowazekii	1995	rickettsia	wildlife		vector	War & famine	Burundi (N'Gozi)
+Rickettsia slovaca	1996	rickettsia	unspecified		vector	Land use changes	France (Midi-Pyrennes)
+Rickettsia typhi	1983	rickettsia	wildlife		vector	International travel & commerce	US (Texas)
+Alkhurma virus	1995	virus	non-wildlife		vector	International travel & commerce	Saudi Arabia (Jiddah)
+Andes virus	1995	virus	wildlife			Land use changes	Argentina (El Bolson, Provincia de Rio Negro)
+Australian bat lyssavirus	1996	virus	wildlife			Land use changes	Australia (Rockhampton)
+B19 virus	1974	virus				Unspecified	UK (London)
+Banna virus	1985	virus	unspecified		vector	Medical industry changes	China (Xishuang Banna, Yunnan Province)
+Barmah forest virus	1985	virus	wildlife		vector	International travel & commerce	Australia (Griffith, New South Wales)
+California encephalitis virus	1945	virus	wildlife		vector	Land use changes	US (San Joaquin, California)
+Chikungunya virus	1952	virus	wildlife		vector	Human demographics & behavior	Tanzania (Lindi; Mtwara; Ruvuma)
+Crimean-Congo Hemorrhagic Fever virus	1944	virus	wildlife		vector	War & famine	Ukraine (Crimea)
+Dengue virus	1954	virus	wildlife		vector	War & famine	Philippines (Angeles City, Manila)
+Ebola virus (Sudan)	1976	virus	wildlife			Bushmeat	Sudan (Nzara)
+Enterovirus 70	1969	virus				Unspecified	Ghana (Accra)
+Enterovirus 71	1974	virus				Unspecified	US (California)
+European Tick Borne Encephalitis virus	1993	virus	wildlife		vector	Land use changes	Norway; Sweden; Denmark (Bornholm)
+Far Eastern Tick Borne Encephalitis virus	1993	virus	wildlife		vector	Land use changes	Japan (Kamiiso, Oshima District, Hokkaido)
+Guama virus	1954	virus	wildlife		vector	Land use changes	Brazil (Belem)
+Guanarito virus	1989	virus	wildlife			Land use changes	Venezuela (Guanarito, Estado Portuguesa)
+Hantaan virus	1941	virus	wildlife			Land use changes	China (Jilin; Heilongjiang; Liaoning)
+Hendra virus	1994	virus	wildlife			International travel & commerce	Australia (Brisbane, Queensland)
+Hepatitis B HBeAg-negative (variant with truncated protein products)	1989	virus				Medical industry changes	Italy; Greece
+Hepatitis B vaccine escape mutant	1990	virus				Human demographics & behavior	Italy (Neopolitan)
+Hepatitis C virus	1975	virus				Human susceptibility to infection	US (Bethesda, Maryland)
+Hepatitis E virus	1955	virus	wildlife			Unspecified	India (Delhi)
+Hepatitis G virus	1964	virus				Medical industry changes	US (Chicago, Illinois)
+Human enterovirus B Echovirus type 13	2000	virus				International travel & commerce	Spain (Canary Islands)
+Human Herpesvirus 1 Acyclovir-res	1980	virus		drug-resistant		Antimicrobial agent use	US (North Carolina)
+Human Herpesvirus 1 Idoxuridine-res	1963	virus		drug-resistant		Antimicrobial agent use	US (Gainesville, Florida)
+Human Herpesvirus 3 acyclovir-res	1986	virus				Human susceptibility to infection	US (Suffolk County, New York)
+Human Herpesvirus 5/CMV foscarnet-res	1991	virus		drug-resistant		Antimicrobial agent use	US (Milwaukee, Wisconsin)
+Human Herpesvirus 5/CMV ganciclovir-res	1989	virus		drug-resistant		Antimicrobial agent use	US (University of Minnesota Health Sciences Center, Minneapolis, Minnesota)
+Human Herpesvirus 6	1986	virus				Human susceptibility to infection	US (Philadelphia, Pennsylvania)
+Human Herpesvirus 7	1989	virus				Human susceptibility to infection	US (Bethesda, Maryland)
+Human Herpesvirus 8	1994	virus				Human susceptibility to infection	US (New York, New York)
+Human Immunodeficiency Virus 1	1959	virus	wildlife			Bushmeat	Congo (Kinshasa)
+Human Immunodeficiency Virus 1 Dideoxycytidine-res	1990	virus		drug-resistant		Antimicrobial agent use	US (New Brunswick, New Jersey)
+Human Immunodeficiency Virus 1 multi-dideoxynucleoside res	1994	virus		drug-resistant		Antimicrobial agent use	US (West Point, Pennsylvania)
+Human Immunodeficiency Virus 1 Zidovudine-res	1986	virus		drug-resistant		Antimicrobial agent use	US (San Diego, California)
+Human Immunodeficiency Virus 2	1960	virus				War & famine	Guinea Bissau
+Human papillomavirus	1980	virus				Human demographics & behavior	Unspecified
+Human T-Lymphotropic virus 1	1974	virus				Human susceptibility to infection	Japan (Kyushu)
+Human T-Lymphotropic Virus 2	1979	virus				Medical industry changes	US (Bethesda, Maryland)
+Influenza A virus	1997	virus	wildlife			Agricultural industry changes	China (Hong Kong)
+Jamestown Canyon virus	1960	virus	wildlife		vector	Land use changes	US (Wisconsin)
+Japanese encephalitis virus	1989	virus	wildlife		vector	Agricultural industry changes	Papua New Guinea (Daru)
+Junin virus Unspecified Argentine hemorrhagic fever	1958	virus	wildlife			Agricultural industry changes	Argentina (Junin, Provincia de Buenos Aires)
+Kunjin virus	1974	virus	wildlife		vector	Land use changes	Australia (Mildura, Victoria)
+Kyasanur forest disease virus	1957	virus	wildlife		vector	Land use changes	India (Karnataka)
+LaCrosse virus	1960	virus	wildlife		vector	Land use changes	US (La Crosse, Wisconsin)
+Laguna Negra virus	1995	virus	wildlife			Agricultural industry changes	Paraguay (Chaco Region)
+Lassa virus	1969	virus	wildlife			International travel & commerce	Nigeria (Lassa)
+Machupo virus	1959	virus	wildlife			Agricultural industry changes	Boliva (El Beni)
+Marburg virus	1967	virus	wildlife			Medical industry changes	Germany (Wolfshausen, Land Hessen)
+Mayaro virus	1954	virus	wildlife		vector	Land use changes	Trinidad
+Measles virus	1980	virus				Breakdown of public health measures	US
+Menangle virus	1997	virus	wildlife			Agricultural industry changes	Australia (Sydney, New South Wales)
+Monkepox virus	1970	virus	wildlife			Bushmeat	Congo (Basankusu)
+Murray Valley encephalitis virus	1950	virus	wildlife		vector	Climate & weather	Australia (Mildura, Victoria)
+Nipah virus	1998	virus	wildlife			Agricultural industry changes	Malaysia (Perak)
+Norwalk virus	1968	virus	non-wildlife			Agricultural industry changes	US (Norwalk, Ohio)
+Ockelbo virus (subtype of Sindbis)	1960	virus	wildlife		vector	International travel & commerce	Sweden (Ockelbo)
+Omsk virus	1941	virus	wildlife			International travel & commerce	Russia (Omsk District, Sarghat Region, West Siberia)
+O'nyong-nyong virus	1955	virus	wildlife		vector	Unspecified	Uganda (Gulu)
+Oropouche virus	1955	virus	wildlife		vector	Land use changes	Trinidad (Sangre Grande, County of Saint Andrew)
+Orungo virus	1976	virus	wildlife		vector	Unspecified	Nigeria; Central Africa Republic
+Picobirnavirus	1984	virus	wildlife			Human susceptibility to infection	Brazil (Bahia)
+Poliovirus type 2	2003	virus				Human demographics & behavior	India (Uttar Pradesh)
+Puumala virus	1995	virus	unspecified			Land use changes	Croatia
+Rabies virus	2001	virus	wildlife			Land use changes	Costa Rica (Gamba)
+Rift Valley fever virus	1977	virus	wildlife		vector	Land use changes	Egypt
+Rotavirus A	1973	virus	wildlife			Agricultural industry changes	Australia (Melbourne, Victoria)
+Sabia virus Brazilian Hemorrhagic Fever	1990	virus	wildlife			Agricultural industry changes	Brazil (Sao Paulo, Estado de Sao Paulo)
+Sandfly fever Naples virus	1942	virus	unspecified		vector	War & famine	Gaza, Israel and West Bank
+SARS Coronavirus	2002	virus	wildlife			Bushmeat	China (Foshan, Guangdong Shen)
+Seoul virus	1989	virus	wildlife			Land use changes	US (Baltimore, US)
+Sin Nombre virus	1978	virus	wildlife			Land use changes	US (Idaho)
+Sindbis virus	1952	virus	wildlife		vector	Climate & weather	Uganda (Waiya Bay)
+Tahyna virus	1960	virus	wildlife		vector	Unspecified	Czech Republic
+Toscana virus	1970	virus			vector	Unspecified	Italy (Toscana;Marche)
+Venezuelan Equine Encephalitis virus	1943	virus	wildlife		vector	Agricultural industry changes	Trinidad
+Wesselsbron virus	1989	virus	non-wildlife		vector	International travel & commerce	Madagascar
+West Nile Virus	1999	virus	wildlife		vector	International travel & commerce	US (Queens, New York, New York)
+Whitewater Arroyo virus	1999	virus	wildlife			Land use changes	US (California)
+Yellow fever virus	1940	virus	wildlife		vector	Breakdown of public health measures	Sudan (Nuba Mountains)
+Zika virus	1977	virus	unspecified		vector	Climate & weather	Indonesia (Tegalyoso Hospital, Klaten)

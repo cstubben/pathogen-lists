@@ -1,0 +1,1416 @@
+group	pathogen	note
+bacteria	Abiotrophia defectiva	
+bacteria	Achromobacter piechaudii	
+bacteria	Achromobacter xylosoxidans	
+bacteria	Acidaminococcus fermentans	
+bacteria	Acinetobacter baumannii	
+bacteria	Acinetobacter calcoaceticus	
+bacteria	Acinetobacter haemolyticus	
+bacteria	Acinetobacter johnsonii	
+bacteria	Acinetobacter junii	
+bacteria	Acinetobacter lwoffii	
+bacteria	Acinetobacter radioresistens	
+bacteria	Actinobacillus equuli	zoonotic
+bacteria	Actinobacillus hominis	zoonotic
+bacteria	Actinobacillus lignieresii	zoonotic
+bacteria	Actinobacillus pleuropneumoniae	zoonotic
+bacteria	Actinobacillus suis	zoonotic
+bacteria	Actinobacillus ureae	zoonotic
+bacteria	Actinomyces georgiae	
+bacteria	Actinomyces gerencseriae	zoonotic
+bacteria	Actinomyces israelii	zoonotic
+bacteria	Actinomyces meyeri	
+bacteria	Actinomyces naeslundii	zoonotic
+bacteria	Actinomyces neuii	
+bacteria	Actinomyces odontolyticus	zoonotic
+bacteria	Actinomyces radingae	
+bacteria	Actinomyces turicensis	
+bacteria	Aerococcus viridans	
+bacteria	Aeromonas caviae	zoonotic, emerging
+bacteria	Aeromonas hydrophila	zoonotic, emerging
+bacteria	Aeromonas sobria	zoonotic
+bacteria	Aeromonas veronii	emerging
+bacteria	Alcaligenes odorans	
+bacteria	Amycolatopsis orientalis	
+bacteria	Arcanobacterium bernardiae	
+bacteria	Arcanobacterium heamolyticum	zoonotic
+bacteria	Arcanobacterium pyogenes	zoonotic
+bacteria	Arcobacter butzleri	zoonotic
+bacteria	Arcobacter cryaerophilus	zoonotic
+bacteria	Bacillus anthracis	zoonotic, emerging
+bacteria	Bacillus cereus	zoonotic
+bacteria	Bacillus circulans	
+bacteria	Bacillus coagulans	zoonotic
+bacteria	Bacillus licheniformis	zoonotic
+bacteria	Bacillus mycoides	
+bacteria	Bacillus pumilus	
+bacteria	Bacillus sphaericus	
+bacteria	Bacillus subtilis	zoonotic
+bacteria	Bacillus thuringiensis	
+bacteria	Bacteroides caccae	
+bacteria	Bacteroides distasonis	
+bacteria	Bacteroides eggerthii	
+bacteria	Bacteroides forsythus	
+bacteria	Bacteroides fragilis	zoonotic
+bacteria	Bacteroides galacturonicus	
+bacteria	Bacteroides merdae	
+bacteria	Bacteroides ovatus	
+bacteria	Bacteroides pectinophilus	
+bacteria	Bacteroides splanchnicus	
+bacteria	Bacteroides stercoris	
+bacteria	Bacteroides thetaiotaomicron	
+bacteria	Bacteroides uniformis	
+bacteria	Bacteroides ureolyticus	
+bacteria	Bacteroides vulgatus	
+bacteria	Bartonella bacilliformis	
+bacteria	Bartonella elizabethae	zoonotic
+bacteria	Bartonella henselae	zoonotic
+bacteria	Bartonella quintana	
+bacteria	Bergeyella zoohelcum	zoonotic
+bacteria	Bifidobacterium dentium	
+bacteria	Bilophila wadsworthia	
+bacteria	Bordetella avium	
+bacteria	Bordetella bronchiseptica	zoonotic
+bacteria	Bordetella parapertussis	zoonotic
+bacteria	Bordetella pertussis	emerging
+bacteria	Borrelia brasiliensis	zoonotic
+bacteria	Borrelia burgdorferi	zoonotic, emerging
+bacteria	Borrelia caucasica	zoonotic
+bacteria	Borrelia crocidurae	zoonotic
+bacteria	Borrelia duttonii	
+bacteria	Borrelia hermsii	zoonotic
+bacteria	Borrelia hispanica	zoonotic
+bacteria	Borrelia latyschewii	zoonotic
+bacteria	Borrelia mazzottii	zoonotic
+bacteria	Borrelia parkeri	zoonotic
+bacteria	Borrelia persica	zoonotic
+bacteria	Borrelia recurrentis	
+bacteria	Borrelia turicatae	zoonotic
+bacteria	Borrelia venezuelensis	zoonotic
+bacteria	Brevibacillus brevis	
+bacteria	Brevundimonas diminuta	
+bacteria	Brevundimonas vesicularis	
+bacteria	Brucella melitensis	zoonotic, emerging
+bacteria	Burkholderia cepacia	
+bacteria	Burkholderia mallei	zoonotic
+bacteria	Burkholderia pseudomallei	zoonotic
+bacteria	Campylobacter coli	zoonotic
+bacteria	Campylobacter concisus	
+bacteria	Campylobacter curvus	
+bacteria	Campylobacter fetus	zoonotic, emerging
+bacteria	Campylobacter gracilis	
+bacteria	Campylobacter hyointestinalis	zoonotic
+bacteria	Campylobacter jejuni	zoonotic, emerging
+bacteria	Campylobacter lari	zoonotic
+bacteria	Campylobacter rectus	
+bacteria	Campylobacter sputorum	
+bacteria	Campylobacter upsaliensis	zoonotic
+bacteria	Capnocytophaga canimorsus	zoonotic
+bacteria	Capnocytophaga cynodegmi	zoonotic
+bacteria	Capnocytophaga gingivalis	
+bacteria	Capnocytophaga ochracea	
+bacteria	Capnocytophaga sputigena	
+bacteria	Cardiobacterium hominis	
+bacteria	Cedecea davisae	
+bacteria	Cedecea lapagei	
+bacteria	Cedecea neteri	
+bacteria	Cellulomonas cellulans	
+bacteria	Cellulomonas turbata	
+bacteria	Centipeda periodontii	
+bacteria	Chlamydia trachomatis	zoonotic, emerging
+bacteria	Chlamydophila pneumoniae	zoonotic
+bacteria	Chlamydophila psittaci	zoonotic
+bacteria	Chromobacterium violaceum	zoonotic
+bacteria	Chryseobacterium balustinum	
+bacteria	Chryseobacterium meningosepticum	
+bacteria	Citrobacter amalonaticus	zoonotic
+bacteria	Citrobacter braakii	zoonotic
+bacteria	Citrobacter farmeri	zoonotic
+bacteria	Citrobacter freundii	zoonotic
+bacteria	Citrobacter koseri	zoonotic
+bacteria	Citrobacter rodentium	zoonotic
+bacteria	Citrobacter sedlakii	zoonotic
+bacteria	Citrobacter werkmanii	zoonotic
+bacteria	Citrobacter youngae	zoonotic
+bacteria	Clostridium baratii	
+bacteria	Clostridium bifermentans	
+bacteria	Clostridium botulinum	zoonotic, emerging
+bacteria	Clostridium butyricum	
+bacteria	Clostridium chauvoei	zoonotic
+bacteria	Clostridium difficile	zoonotic, emerging
+bacteria	Clostridium fallax	zoonotic
+bacteria	Clostridium histolyticum	zoonotic
+bacteria	Clostridium novyi	zoonotic
+bacteria	Clostridium perfringens	zoonotic
+bacteria	Clostridium ramosum	zoonotic
+bacteria	Clostridium septicum	zoonotic
+bacteria	Clostridium sordellii	zoonotic
+bacteria	Clostridium sporogenes	zoonotic
+bacteria	Clostridium tertium	zoonotic
+bacteria	Clostridium tetani	zoonotic
+bacteria	Collinsella aerofaciens	zoonotic
+bacteria	Comamonas testosteroni	
+bacteria	Corynebacterium afermentans	
+bacteria	Corynebacterium argentoratense	
+bacteria	Corynebacterium bovis	zoonotic
+bacteria	Corynebacterium diphtheriae	emerging
+bacteria	Corynebacterium jeikeium	
+bacteria	Corynebacterium kutscheri	zoonotic
+bacteria	Corynebacterium macginleyi	
+bacteria	Corynebacterium minutissimum	
+bacteria	Corynebacterium propinquum	
+bacteria	Corynebacterium pseudodiphthericum	
+bacteria	Corynebacterium pseudotuberculosis	zoonotic
+bacteria	Corynebacterium striatum	
+bacteria	Corynebacterium ulcerans	zoonotic
+bacteria	Corynebacterium urealyticum	
+bacteria	Corynebacterium xerosis	
+bacteria	Coxiella burnetii	zoonotic
+bacteria	Delftia acidovorans	
+bacteria	Dermatophilus congolensis	zoonotic
+bacteria	Dichelobacter nodosus	zoonotic
+bacteria	Edwardsiella hoshinae	zoonotic
+bacteria	Edwardsiella tarda	zoonotic
+bacteria	Eggerthella lenta	zoonotic
+bacteria	Ehrlichia chaffeensis	zoonotic, emerging
+bacteria	Ehrlichia equi	zoonotic, emerging
+bacteria	Ehrlichia ewingii	zoonotic, emerging
+bacteria	Ehrlichia phagocytophila	zoonotic
+bacteria	Ehrlichia sennetsu	zoonotic
+bacteria	Eikenella corrodens	zoonotic
+bacteria	Enterobacter aerogenes	zoonotic
+bacteria	Enterobacter amnigenus	zoonotic
+bacteria	Enterobacter asburiae	zoonotic
+bacteria	Enterobacter cancerogenus	zoonotic
+bacteria	Enterobacter cloacae	zoonotic
+bacteria	Enterobacter gergoviae	
+bacteria	Enterobacter hormaechei	zoonotic
+bacteria	Enterobacter sakazakii	zoonotic
+bacteria	Enterococcus avium	zoonotic
+bacteria	Enterococcus casseliflavus	
+bacteria	Enterococcus durans	zoonotic
+bacteria	Enterococcus faecalis	zoonotic, emerging
+bacteria	Enterococcus faecium	zoonotic, emerging
+bacteria	Enterococcus flavescens	
+bacteria	Enterococcus gallinarum	
+bacteria	Enterococcus hirae	zoonotic
+bacteria	Enterococcus mundtii	
+bacteria	Enterococcus raffinosus	
+bacteria	Erysipelothrix rhusiopathiae	zoonotic
+bacteria	Escherichia coli	zoonotic, emerging
+bacteria	Eubacterium brachy	zoonotic
+bacteria	Eubacterium combesii	zoonotic
+bacteria	Eubacterium contortum	zoonotic
+bacteria	Eubacterium cylindroides	zoonotic
+bacteria	Eubacterium limosum	zoonotic
+bacteria	Eubacterium moniliforme	zoonotic
+bacteria	Eubacterium multiforme	zoonotic
+bacteria	Eubacterium nodatum	zoonotic
+bacteria	Eubacterium rectale	zoonotic
+bacteria	Eubacterium saburreum	zoonotic
+bacteria	Eubacterium saphenum	zoonotic
+bacteria	Eubacterium sulci	
+bacteria	Eubacterium tenue	zoonotic
+bacteria	Eubacterium timidum	zoonotic
+bacteria	Ewingella americana	
+bacteria	Fibrobacter intestinalis	
+bacteria	Filifactor alocis	
+bacteria	Finegoldia magna	
+bacteria	Fluoribacter bozemanae	
+bacteria	Fluoribacter dumoffii	
+bacteria	Fluoribacter gormanii	
+bacteria	Francisella tularensis	zoonotic, emerging
+bacteria	Fusobacterium mortiferum	
+bacteria	Fusobacterium necrophorum	zoonotic
+bacteria	Fusobacterium nucleatum	zoonotic
+bacteria	Fusobacterium periodonticum	
+bacteria	Fusobacterium ulcerans	
+bacteria	Fusobacterium varium	zoonotic
+bacteria	Gardnerella vaginalis	
+bacteria	Gemella morbillorum	
+bacteria	Gordonia amarae	
+bacteria	Gordonia bronchialis	
+bacteria	Gordonia rubropertincta	
+bacteria	Gordonia sputi	
+bacteria	Gordonia terrae	
+bacteria	Granulicatella adjacens	
+bacteria	Haemophilus actinomycetemcomitans	zoonotic
+bacteria	Haemophilus aphrophilus	
+bacteria	Haemophilus ducreyi	emerging
+bacteria	Haemophilus haemolyticus	
+bacteria	Haemophilus influenzae	emerging
+bacteria	Haemophilus parahaemolyticus	
+bacteria	Haemophilus parainfluenzae	
+bacteria	Haemophilus paraphrophilus	
+bacteria	Haemophilus segnis	
+bacteria	Hafnia alvei	zoonotic
+bacteria	Helicobacter cinaedi	
+bacteria	Helicobacter fennelliae	
+bacteria	Helicobacter heilmannii	zoonotic
+bacteria	Helicobacter pullorum	zoonotic
+bacteria	Helicobacter pylori	zoonotic
+bacteria	Kingella denitrificans	
+bacteria	Kingella kingae	
+bacteria	Klebsiella granulomatis	
+bacteria	Klebsiella ornithinolytica	
+bacteria	Klebsiella oxytoca	zoonotic
+bacteria	Klebsiella pneumoniae	zoonotic, emerging
+bacteria	Kluyvera ascorbata	zoonotic
+bacteria	Kluyvera cryocrescens	zoonotic
+bacteria	Lactobacillus sp.	zoonotic
+bacteria	Legionella anisa	
+bacteria	Legionella birminghamensis	
+bacteria	Legionella cherrii	
+bacteria	Legionella cincinnatiensis	
+bacteria	Legionella feeleii	
+bacteria	Legionella hackeliae	
+bacteria	Legionella jordanis	
+bacteria	Legionella lansingensis	
+bacteria	Legionella longbeachae	
+bacteria	Legionella oakridgensis	
+bacteria	Legionella pneumophila	emerging
+bacteria	Legionella rubrilucens	
+bacteria	Legionella sainthelensi	
+bacteria	Legionella tucsonensis	
+bacteria	Legionella wadsworthii	
+bacteria	Leifsonia aquatica	
+bacteria	Leptospira borgpetersenii	zoonotic
+bacteria	Leptospira inadai	zoonotic
+bacteria	Leptospira interrogans	zoonotic, emerging
+bacteria	Leptospira kirschneri	zoonotic
+bacteria	Leptospira meyeri	zoonotic
+bacteria	Leptospira noguchii	zoonotic
+bacteria	Leptospira santarosai	zoonotic
+bacteria	Leptospira weilii	zoonotic
+bacteria	Leptotrichia buccalis	zoonotic
+bacteria	Listeria ivanovii	zoonotic
+bacteria	Listeria monocytogenes	zoonotic, emerging
+bacteria	Listeria seeligeri	zoonotic
+bacteria	Listeria welshimeri	zoonotic
+bacteria	Mannheimia haemolytica	zoonotic
+bacteria	Megamonas hypermegale	
+bacteria	Megasphaera sp.	
+bacteria	Micromonas micros	
+bacteria	Moraxella catarrhalis	
+bacteria	Moraxella caviae	zoonotic
+bacteria	Moraxella cuniculi	
+bacteria	Moraxella ovis	zoonotic
+bacteria	Moraxella atlantae	
+bacteria	Moraxella bovis	zoonotic
+bacteria	Moraxella lacunata	zoonotic
+bacteria	Moraxella liquefaciens	
+bacteria	Moraxella nonliquefaciens	
+bacteria	Moraxella osloensis	
+bacteria	Moraxella lincolnii	
+bacteria	Morganella morganii	zoonotic
+bacteria	Mycobacterium abscessus	zoonotic
+bacteria	Mycobacterium africanum	zoonotic
+bacteria	Mycobacterium asiaticum	zoonotic
+bacteria	Mycobacterium avium	zoonotic, emerging
+bacteria	Mycobacterium bovis	zoonotic, emerging
+bacteria	Mycobacterium celatum	
+bacteria	Mycobacterium chelonae	zoonotic
+bacteria	Mycobacterium conspicuum	
+bacteria	Mycobacterium fortuitum	zoonotic, emerging
+bacteria	Mycobacterium genavense	zoonotic
+bacteria	Mycobacterium gordonae	
+bacteria	Mycobacterium haemophilum	zoonotic, emerging
+bacteria	Mycobacterium kansasii	zoonotic
+bacteria	Mycobacterium leprae	zoonotic, emerging
+bacteria	Mycobacterium malmoense	zoonotic
+bacteria	Mycobacterium marinum	zoonotic, emerging
+bacteria	Mycobacterium mucogenicum	zoonotic
+bacteria	Mycobacterium peregrinum	
+bacteria	Mycobacterium porcinum	
+bacteria	Mycobacterium scrofulaceum	zoonotic
+bacteria	Mycobacterium senegalense	
+bacteria	Mycobacterium shimoidei	
+bacteria	Mycobacterium simiae	zoonotic
+bacteria	Mycobacterium smegmatis	zoonotic
+bacteria	Mycobacterium szulgai	zoonotic
+bacteria	Mycobacterium tuberculosis	zoonotic, emerging
+bacteria	Mycobacterium ulcerans	zoonotic, emerging
+bacteria	Mycobacterium xenopi	zoonotic
+bacteria	Mycoplasma fermentans	zoonotic
+bacteria	Mycoplasma genitalium	
+bacteria	Mycoplasma hominis	
+bacteria	Mycoplasma pneumoniae	
+bacteria	Mycoplasma salivarium	
+bacteria	Myroides odoratus	
+bacteria	Neisseria cinerea	
+bacteria	Neisseria elongata	
+bacteria	Neisseria flava	
+bacteria	Neisseria flavescens	
+bacteria	Neisseria gonorrhoeae	emerging
+bacteria	Neisseria lactamica	
+bacteria	Neisseria meningitidis	emerging
+bacteria	Neisseria mucosa	zoonotic
+bacteria	Neisseria perflava	
+bacteria	Neisseria sicca	
+bacteria	Neisseria subflava	
+bacteria	Neisseria weaveri	zoonotic
+bacteria	Nocardia asteroides	zoonotic
+bacteria	Nocardia brasiliensis	zoonotic
+bacteria	Nocardia caviae	zoonotic
+bacteria	Nocardia farcinica	zoonotic
+bacteria	Nocardia nova	zoonotic
+bacteria	Nocardia otitidiscaviarum	zoonotic
+bacteria	Nocardia pseudobrasiliensis	zoonotic
+bacteria	Nocardia transvalensis	zoonotic
+bacteria	Ochrobactrum anthropi	
+bacteria	Oligella ureolytica	
+bacteria	Oligella urethralis	
+bacteria	Orientia tsutsugamushi	zoonotic
+bacteria	Paenibacillus alvei	
+bacteria	Paenibacillus macerans	
+bacteria	Pantoea agglomerans	zoonotic
+bacteria	Pasteurella aerogenes	zoonotic
+bacteria	Pasteurella caballi	zoonotic
+bacteria	Pasteurella canis	zoonotic
+bacteria	Pasteurella dagmatis	zoonotic
+bacteria	Pasteurella multocida	zoonotic
+bacteria	Pasteurella pneumotropica	zoonotic
+bacteria	Pasteurella stomatis	zoonotic
+bacteria	Peptococcus niger	
+bacteria	Peptostreptococcus anaerobius	zoonotic
+bacteria	Peptostreptococcus asaccharolyticus	
+bacteria	Peptostreptococcus lactolyticus	
+bacteria	Peptostreptococcus prevotii	
+bacteria	Peptostreptococcus vaginalis	
+bacteria	Photobacterium damselae	zoonotic
+bacteria	Plesiomonas shigelloides	
+bacteria	Porphyromonas asaccharolytica	zoonotic
+bacteria	Porphyromonas catoniae	
+bacteria	Porphyromonas circumdentaria	
+bacteria	Porphyromonas endodontalis	
+bacteria	Porphyromonas gingivalis	zoonotic
+bacteria	Porphyromonas levii	
+bacteria	Porphyromonas macacae	
+bacteria	Prevotella bivia	
+bacteria	Prevotella buccae	
+bacteria	Prevotella buccalis	
+bacteria	Prevotella corporis	
+bacteria	Prevotella dentalis	
+bacteria	Prevotella denticola	
+bacteria	Prevotella disiens	
+bacteria	Prevotella enoeca	
+bacteria	Prevotella heparinolytica	
+bacteria	Prevotella intermedia	
+bacteria	Prevotella loescheii	
+bacteria	Prevotella melaninogenica	zoonotic
+bacteria	Prevotella nigrescens	
+bacteria	Prevotella oralis	
+bacteria	Prevotella oris	
+bacteria	Prevotella oulora	
+bacteria	Prevotella ruminicola	zoonotic
+bacteria	Prevotella tannerae	
+bacteria	Prevotella veroralis	
+bacteria	Prevotella zoogleoformans	
+bacteria	Propionibacterium acnes	zoonotic
+bacteria	Propionibacterium avidum	
+bacteria	Propionibacterium granulosum	
+bacteria	Propionibacterium propionicus	
+bacteria	Proteus mirabilis	zoonotic
+bacteria	Proteus penneri	zoonotic
+bacteria	Proteus vulgaris	zoonotic
+bacteria	Providencia alcalifaciens	zoonotic
+bacteria	Providencia rettgeri	zoonotic
+bacteria	Providencia stuartii	zoonotic
+bacteria	Pseudomonas aeruginosa	zoonotic, emerging
+bacteria	Pseudomonas alcaligenes	
+bacteria	Pseudomonas fluorescens	
+bacteria	Pseudomonas pseudoalcaligenes	
+bacteria	Pseudomonas putida	
+bacteria	Pseudomonas stutzeri	
+bacteria	Pseudonocardia autotrophica	
+bacteria	Pseudoramibacter alactolyticus	zoonotic
+bacteria	Psychrobacter phenylpyruvicus	
+bacteria	Rahnella aquatilis	
+bacteria	Ralstonia pickettii	
+bacteria	Rhodococcus equi	zoonotic
+bacteria	Rhodococcus erythropolis	
+bacteria	Rhodococcus fascians	
+bacteria	Rhodococcus rhodnii	
+bacteria	Rhodococcus rhodochrous	
+bacteria	Rickettsia africae	zoonotic
+bacteria	Rickettsia akari	zoonotic
+bacteria	Rickettsia australis	zoonotic
+bacteria	Rickettsia conorii	zoonotic
+bacteria	Rickettsia felis	zoonotic
+bacteria	Rickettsia honei	zoonotic
+bacteria	Rickettsia japonica	zoonotic
+bacteria	Rickettsia massiliae	zoonotic
+bacteria	Rickettsia prowazekii	zoonotic, emerging
+bacteria	Rickettsia rickettsii	zoonotic
+bacteria	Rickettsia sibirica	zoonotic
+bacteria	Rickettsia typhi	zoonotic
+bacteria	Rothia dentocariosa	
+bacteria	Ruminococcus productus	zoonotic
+bacteria	Saccharomonospora viridis	
+bacteria	Saccharopolyspora rectivirgula	
+bacteria	Salmonella bongori	zoonotic
+bacteria	Salmonella choleraesuis	zoonotic
+bacteria	Salmonella enteritidis	zoonotic, emerging
+bacteria	Salmonella typhi	emerging
+bacteria	Salmonella typhimurium	zoonotic, emerging
+bacteria	Sebaldella termitidis	
+bacteria	Selenomonas artemidis	
+bacteria	Selenomonas dianae	
+bacteria	Selenomonas flueggei	
+bacteria	Selenomonas infelix	
+bacteria	Selenomonas noxia	
+bacteria	Serratia ficaria	
+bacteria	Serratia marcescens	zoonotic, emerging
+bacteria	Serratia odorifera	
+bacteria	Serratia plymuthica	
+bacteria	Serratia proteamaculans	
+bacteria	Serratia rubidaea	
+bacteria	Shigella boydii	zoonotic
+bacteria	Shigella dysenteriae	zoonotic, emerging
+bacteria	Shigella flexneri	zoonotic
+bacteria	Shigella sonnei	zoonotic
+bacteria	Sphingomonas paucimobilis	
+bacteria	Spirillum minus	zoonotic
+bacteria	Staphylococcus aureus	zoonotic, emerging
+bacteria	Staphylococcus epidermidis	zoonotic, emerging
+bacteria	Staphylococcus haemolyticus	zoonotic
+bacteria	Staphylococcus hyicus	zoonotic
+bacteria	Staphylococcus intermedius	zoonotic
+bacteria	Staphylococcus lugdunensis	
+bacteria	Staphylococcus saprophyticus	
+bacteria	Staphylococcus warneri	zoonotic
+bacteria	Stenotrophomonas maltophilia	
+bacteria	Streptobacillus moniliformis	zoonotic
+bacteria	Streptococcus acidominimus	zoonotic
+bacteria	Streptococcus agalactiae	zoonotic
+bacteria	Streptococcus anginosus	
+bacteria	Streptococcus bovis	zoonotic
+bacteria	Streptococcus canis	zoonotic
+bacteria	Streptococcus constellatus	
+bacteria	Streptococcus criceti	zoonotic
+bacteria	Streptococcus equi	zoonotic
+bacteria	Streptococcus gordonii	
+bacteria	Streptococcus intermedius	zoonotic
+bacteria	Streptococcus milleri	
+bacteria	Streptococcus mitis	
+bacteria	Streptococcus mutans	
+bacteria	Streptococcus pneumoniae	zoonotic, emerging
+bacteria	Streptococcus pyogenes	zoonotic, emerging
+bacteria	Streptococcus salivarius	
+bacteria	Streptococcus sanguis	
+bacteria	Streptococcus sobrinus	
+bacteria	Streptococcus suis	zoonotic
+bacteria	Streptococcus uberis	zoonotic
+bacteria	Sutterella wadsworthensis	
+bacteria	Suttonella indologenes	
+bacteria	Tatlockia maceachernii	
+bacteria	Tatlockia micdadei	
+bacteria	Tatumella ptyseos	
+bacteria	Treponema carateum	
+bacteria	Treponema pallidum	emerging
+bacteria	Tropheryma whippelii	
+bacteria	Tsukamurella inchonensis	
+bacteria	Tsukamurella paurometabola	
+bacteria	Tsukamurella pulmonis	
+bacteria	Tsukamurella tyrosinosolvens	
+bacteria	Ureaplasma urealyticum	zoonotic
+bacteria	Veillonella atypica	
+bacteria	Veillonella dispar	
+bacteria	Veillonella parvula	
+bacteria	Vibrio alginolyticus	zoonotic
+bacteria	Vibrio cholerae	emerging
+bacteria	Vibrio cincinnatiensis	
+bacteria	Vibrio fluvialis	zoonotic
+bacteria	Vibrio furnissii	zoonotic
+bacteria	Vibrio hollisae	zoonotic
+bacteria	Vibrio mimicus	zoonotic
+bacteria	Vibrio parahaemolyticus	zoonotic, emerging
+bacteria	Vibrio vulnificus	zoonotic, emerging
+bacteria	Wolinella succinogenes	
+bacteria	Yersinia bercovieri	zoonotic
+bacteria	Yersinia enterocolitica	zoonotic, emerging
+bacteria	Yersinia frederiksenii	zoonotic
+bacteria	Yersinia intermedia	zoonotic
+bacteria	Yersinia kristensenii	zoonotic
+bacteria	Yersinia mollaretii	zoonotic
+bacteria	Yersinia pestis	zoonotic, emerging
+bacteria	Yersinia pseudotuberculosis	zoonotic
+bacteria	Yersinia rohdei	zoonotic
+bacteria	Yersinia ruckeri	zoonotic
+fungi	Absidia corymbifera	zoonotic
+fungi	Acremonium alabamense	
+fungi	Acremonium curvulum	
+fungi	Acremonium falciforme	
+fungi	Acremonium kiliense	zoonotic
+fungi	Acremonium potronii	
+fungi	Acremonium recifei	
+fungi	Acremonium roseogriseum	
+fungi	Acremonium strictum	
+fungi	Acrophialophora fusispora	
+fungi	Actinomadura madurae	
+fungi	Actinomadura pelletieri	
+fungi	Alternaria alternata	zoonotic
+fungi	Alternaria chlamydospora	
+fungi	Alternaria dianthicola	
+fungi	Alternaria infectoria	zoonotic
+fungi	Alternaria longipes	
+fungi	Alternaria stemphyloides	
+fungi	Alternaria tenuissima	
+fungi	Aphanoascus fulvescens	
+fungi	Apophysomyces elegans	
+fungi	Arthrinium phaeospermum	
+fungi	Aspergillus candidus	
+fungi	Aspergillus clavatus	
+fungi	Aspergillus fisherianus	
+fungi	Aspergillus flavipes	
+fungi	Aspergillus flavus group	zoonotic
+fungi	Aspergillus fumigatus group	zoonotic, emerging
+fungi	Aspergillus glaucus	
+fungi	Aspergillus nidulans group	zoonotic
+fungi	Aspergillus niger	zoonotic
+fungi	Aspergillus oryzae	
+fungi	Aspergillus terreus group	zoonotic
+fungi	Aspergillus versicolor	
+fungi	Aspergillus wentii	
+fungi	Aureobasidium pullulans	
+fungi	Basidiobolus ranarum	zoonotic
+fungi	Beauveria bassiana	
+fungi	Bipolaris australiensis	zoonotic
+fungi	Bipolaris hawaiiensis	zoonotic
+fungi	Bipolaris spicifera	zoonotic
+fungi	Blastomyces dermatitidis	zoonotic, emerging
+fungi	Blastoschizomyces capitatus	zoonotic
+fungi	Botryomyces caespitosus	zoonotic
+fungi	Botryosphaeria subglobosa	
+fungi	Candida albicans	zoonotic, emerging
+fungi	Candida catenulata	
+fungi	Candida famata	
+fungi	Candida glabrata	zoonotic, emerging
+fungi	Candida guilliermondii	zoonotic
+fungi	Candida haemulonis	
+fungi	Candida intermedia	
+fungi	Candida kefyr	
+fungi	Candida krusei	zoonotic, emerging
+fungi	Candida lambica	
+fungi	Candida lipolytica	
+fungi	Candida lusitaniae	zoonotic
+fungi	Candida norvegensis	
+fungi	Candida parapsilosis	zoonotic
+fungi	Candida rugosa	
+fungi	Candida tropicalis	zoonotic
+fungi	Candida viswanathii	
+fungi	Candida zeylanoides	
+fungi	Cephaliophora irregularis	
+fungi	Cerinosterus cyanescens	
+fungi	Chaetomium atrobtunneum	
+fungi	Chaetomium funicola	
+fungi	Chaetomium globosum	
+fungi	Chaetomium perpulchrum	
+fungi	Chaetomium strumarium	
+fungi	Chaetophoma dermo-unguis	
+fungi	Chlamydoabsidia padenii	
+fungi	Chlorella protothecoides	
+fungi	Chrysonilia sitophila	
+fungi	Cladophialophora arxii	
+fungi	Cladophialophora bantiana	zoonotic
+fungi	Cladophialophora boppii	
+fungi	Cladophialophora carrionii	
+fungi	Cladophialophora devriesii	
+fungi	Cladorrhinum bulbillosum	
+fungi	Cladosporium cladosporioides	
+fungi	Cladosporium elatum	
+fungi	Cladosporium oxysporum	
+fungi	Cladosporium sphaerosphermum	
+fungi	Coccidioides immitis	zoonotic, emerging
+fungi	Cokeromyces recurvartus	zoonotic
+fungi	Colletotrichum coccodes	
+fungi	Colletotrichum dematium	
+fungi	Colletotrichum gloeosporioides	
+fungi	Conidiobolus coronatus	zoonotic
+fungi	Conidiobolus incongruus	zoonotic
+fungi	Conidiobolus lamprauges	zoonotic
+fungi	Coniothyrium fuckelii	
+fungi	Coprinus cinereus	
+fungi	Cryptococcus neoformans	zoonotic, emerging
+fungi	Cunninghamella bertholletiae	zoonotic
+fungi	Curvularia brachyspora	
+fungi	Curvularia clavata	
+fungi	Curvularia geniculata	zoonotic
+fungi	Curvularia lunata	zoonotic
+fungi	Curvularia pallescens	zoonotic
+fungi	Curvularia senegalensis	zoonotic
+fungi	Curvularia verucculosa	zoonotic
+fungi	Cylindrocarpon cyanescens	
+fungi	Cylindrocarpon lichenicola	
+fungi	Cylindrocarpon vaginae	
+fungi	Dichotomophthora portulacae	
+fungi	Dichotomophthoropsis nymphaerum	
+fungi	Dissitimurus exedrus	
+fungi	Doratomyces stemonitis	
+fungi	Drechslera biseptata	zoonotic
+fungi	Emmonsia crescens	zoonotic
+fungi	Emmonsia parva	zoonotic
+fungi	Engyodontium album	
+fungi	Epidermophyton floccosum	zoonotic
+fungi	Exophiala dermatitidis	
+fungi	Exophiala jeanselmei	zoonotic
+fungi	Exophiala moniliae	
+fungi	Exophiala pisciphila	zoonotic
+fungi	Exophiala psychrophila	zoonotic
+fungi	Exophiala salmonis	zoonotic
+fungi	Exophiala spinifera	zoonotic
+fungi	Exserohilum longirostratum	
+fungi	Exserohilum macginnisii	
+fungi	Fusarium aquaeductuum	
+fungi	Fusarium chlamydosporum	
+fungi	Fusarium dimerum	
+fungi	Fusarium incarnatum	
+fungi	Fusarium moniliforme	emerging
+fungi	Fusarium napiforme	
+fungi	Fusarium nivale	
+fungi	Fusarium oxysporum	emerging
+fungi	Fusarium pallidoroseum	
+fungi	Fusarium proliferatum	
+fungi	Fusarium sacchari	
+fungi	Fusarium solani	zoonotic
+fungi	Fusarium subglutinans	
+fungi	Fusarium ventricosum	
+fungi	Fusarium verticillioides	
+fungi	Hansenula anomala	
+fungi	Histoplasma capsulatum	zoonotic, emerging
+fungi	Hortaea werneckii	
+fungi	Lasiodiplodia theobromae	
+fungi	Lecythophora hoffmannii	
+fungi	Lecythophoramutabilis	
+fungi	Leptosphaeria senegalensis	
+fungi	Leptosphaeria tompkinsii	
+fungi	Loboa loboi	zoonotic
+fungi	Madurella grisea	zoonotic
+fungi	Madurella mycetomati	
+fungi	Malassezia furfur	zoonotic
+fungi	Malassezia globosa	zoonotic
+fungi	Malassezia obtusa	zoonotic
+fungi	Malassezia pachydermatis	zoonotic, emerging
+fungi	Malassezia restricta	zoonotic
+fungi	Malassezia sloofiae	zoonotic
+fungi	Malassezia sympodialis	zoonotic
+fungi	Microascus cinereus	
+fungi	Microascus cirrosus	
+fungi	Microsporum audouinii	zoonotic
+fungi	Microsporum canis	zoonotic
+fungi	Microsporum equinum	zoonotic
+fungi	Microsporum ferrugineum	
+fungi	Microsporum fulvum	zoonotic
+fungi	Microsporum gallinae	zoonotic
+fungi	Microsporum gypseum	zoonotic
+fungi	Microsporum nanum	zoonotic
+fungi	Microsporum persicolor	zoonotic
+fungi	Microsporum praecox	
+fungi	Microsporum racemosum	
+fungi	Microsporum vanbreuseghemii	zoonotic
+fungi	Moniliella suavelolens	zoonotic
+fungi	Mucor circinelloides	zoonotic
+fungi	Mucor hiemalis	
+fungi	Mucor indicus	zoonotic
+fungi	Mucor racemosus	
+fungi	Mucor ramosissimus	zoonotic
+fungi	Myceliophthora thermophila	
+fungi	Mycocentrospora acerina	
+fungi	Mycoleptodiscus indicus	
+fungi	Myriodontium keratinophilum	
+fungi	Nannizzia cajetani	zoonotic
+fungi	Nattrassia mangiferae	
+fungi	Neocosmospora vasinfecta	
+fungi	Neotestudina rosatii	
+fungi	Nigrospora sphaerica	
+fungi	Ochroconis gallopava	zoonotic
+fungi	Oidiodendron cerealis	
+fungi	Onychocola canadensis	
+fungi	Ovadendron ochraceum	
+fungi	Ovadendron sulphureo-ochraceum	
+fungi	Paecilomyces farinosus	
+fungi	Paecilomyces fumerosoreus	zoonotic
+fungi	Paecilomyces javanicus	
+fungi	Paecilomyces lilacinus	zoonotic
+fungi	Paecilomyces marquandii	
+fungi	Paecilomyces variotii	zoonotic
+fungi	Paecilomyces viridis	
+fungi	Paracoccidioides brasiliensis	zoonotic
+fungi	Penicillium chrysogenum	
+fungi	Penicillium citrinum	
+fungi	Penicillium commune	
+fungi	Penicillium decumbens	
+fungi	Penicillium dupontii	
+fungi	Penicillium expansum	
+fungi	Penicillium marneffei	zoonotic, emerging
+fungi	Penicillium purpurogenum	
+fungi	Phaeoanellomyces elegans	
+fungi	Phaeoanellomyces werneckii	
+fungi	Phaeosclera dematioides	zoonotic
+fungi	Phaeotrichoconis crotalariae	
+fungi	Phialemonium curvatum	zoonotic
+fungi	Phialemonium obovatum	zoonotic
+fungi	Phialophora bubakii	
+fungi	Phialophora pedrosoi	
+fungi	Phialophora repens	
+fungi	Phialophora richardsiae	
+fungi	Phialophora verrucosa	zoonotic
+fungi	Phoma cava	
+fungi	Phoma cruris-hominis	
+fungi	Phoma eupyrena	
+fungi	Phoma glomerata	
+fungi	Phoma herbarum	zoonotic
+fungi	Phoma hibernica	
+fungi	Phoma minutella	
+fungi	Phoma oculo-hominis	
+fungi	Phyllosticta citricarpa	
+fungi	Piedraia hortae	zoonotic
+fungi	Pleurophoma pleurospora	
+fungi	Pneumocystis carinii	zoonotic, emerging
+fungi	Prototheca wickerhamii	zoonotic
+fungi	Prototheca zopfii	zoonotic
+fungi	Pseudoallescheria boydii	zoonotic
+fungi	Pseudomicrodochium suttonii	zoonotic
+fungi	Pyrenochaeta mackinnonii	
+fungi	Pyrenochaeta romeroi	
+fungi	Pyrenochaeta unguis-hominis	
+fungi	Pythium insidiosum	zoonotic
+fungi	Rhinocladiella aquaspersa	
+fungi	Rhinocladiella compacta	
+fungi	Rhinocladiella obovoidea	
+fungi	Rhinocladiella schulzeri	
+fungi	Rhinosporidium seeberi	zoonotic
+fungi	Rhizomucor miehei	zoonotic
+fungi	Rhizomucor pusillus	zoonotic
+fungi	Rhizopus azygosporus	
+fungi	Rhizopus microsporus	zoonotic
+fungi	Rhizopus oryzae	zoonotic
+fungi	Rhizopus stolonifer	
+fungi	Rhodotorula glutinis	
+fungi	Rhodotorula minuta	
+fungi	Rhodotorula mucilaginosa	zoonotic
+fungi	Rhodotorula rubra	
+fungi	Saccharomyces cerevisiae	
+fungi	Saksenaea vasiformis	
+fungi	Sarcinomyces phaeomuriformis	zoonotic
+fungi	Scedosporium prolificans	emerging
+fungi	Schizophyllum commune	
+fungi	Scolecobasidium humicola	zoonotic
+fungi	Scolecobasidium tshawytschae	zoonotic
+fungi	Scopulariopsis acremonium	
+fungi	Scopulariopsis asperula	
+fungi	Scopulariopsis brevicaulis	zoonotic
+fungi	Scopulariopsis brumptii	
+fungi	Scopulariopsis candida	
+fungi	Scopulariopsis flava	
+fungi	Scopulariopsis fusca	
+fungi	Scytalidium hyalinum	
+fungi	Scytalidium infestans	
+fungi	Setosphaeria rostrata	
+fungi	Sporothrix schenckii	zoonotic
+fungi	Stenella araguata	
+fungi	Streptomyces somaliensis	
+fungi	Taeniolella exilis	
+fungi	Taeniolella stilbospora	
+fungi	Tetraploa aristata	
+fungi	Thermomyces lanuginosus	
+fungi	Torulopsis magnoliae	
+fungi	Trichoderma pseudokoningii	
+fungi	Trichoderma viride	
+fungi	Trichomaris invadens	
+fungi	Trichophyton ajelloi	zoonotic
+fungi	Trichophyton concentricum	
+fungi	Trichophyton equinum	zoonotic
+fungi	Trichophyton gallinae	zoonotic
+fungi	Trichophyton gourvilii	
+fungi	Trichophyton megninii	zoonotic
+fungi	Trichophyton mentagrophytes	zoonotic
+fungi	Trichophyton rubrum	zoonotic
+fungi	Trichophyton schoenleinii	zoonotic
+fungi	Trichophyton simii	zoonotic
+fungi	Trichophyton soudanense	
+fungi	Trichophyton tonsurans	zoonotic
+fungi	Trichophyton verrucosum	zoonotic
+fungi	Trichophyton violaceum	zoonotic
+fungi	Trichosporon asahii	zoonotic
+fungi	Trichosporon beigelii	zoonotic, emerging
+fungi	Trichosporon cutaneum	zoonotic
+fungi	Trichosporon inkin	zoonotic
+fungi	Trichosporon mucoides	zoonotic
+fungi	Trichosporon ovoides	zoonotic
+fungi	Tritirachium oryzae	
+fungi	Tubercularia vulgaris	
+fungi	Ulocladium chartarum	
+fungi	Veronaea botryosa	
+fungi	Verticillium nigrescens	
+fungi	Volutella cinerescens	
+helminths	Acanthocephalus rauschi	zoonotic
+helminths	Achillurbainia nouveli	zoonotic
+helminths	Achillurbainia recondita	zoonotic
+helminths	Alaria americana	zoonotic
+helminths	Alaria marcianae	zoonotic
+helminths	Amphimerus pseudofelineus	zoonotic
+helminths	Anatrichosoma cutaneum	zoonotic
+helminths	Ancylostoma braziliense	zoonotic
+helminths	Ancylostoma caninum	zoonotic
+helminths	Ancylostoma ceylanicum	zoonotic
+helminths	Ancylostoma duodenale	zoonotic
+helminths	Ancylostoma malayanum	zoonotic
+helminths	Anisakis physeteris	zoonotic
+helminths	Anisakis simplex	zoonotic, emerging
+helminths	Aonchotheca philippinensis	zoonotic
+helminths	Apophallus donicus	zoonotic
+helminths	Artyfechinostomum mehrai	zoonotic
+helminths	Ascaris lumbricoides	zoonotic
+helminths	Ascaris suum	zoonotic
+helminths	Ascocotyle sp.	zoonotic
+helminths	Australobilharzia terrigalensis	zoonotic
+helminths	Baylisascaris procyonis	zoonotic
+helminths	Bertiella mucronata	zoonotic
+helminths	Bertiella studeri	zoonotic
+helminths	Bilharziella polonica	zoonotic
+helminths	Bolbosoma sp.	zoonotic
+helminths	Brugia beaveri	zoonotic
+helminths	Brugia guyanensis	zoonotic
+helminths	Brugia malayi	zoonotic
+helminths	Brugia pahangi	zoonotic
+helminths	Brugia timori	
+helminths	Bunostomum phlebotomum	zoonotic
+helminths	Calodium hepaticum	zoonotic
+helminths	Carneocephallus brevicaea	zoonotic
+helminths	Cathaemasia cabrerai	zoonotic
+helminths	Centrocestus armatus	zoonotic
+helminths	Centrocestus formosanus	zoonotic
+helminths	Cheilospirura sp.	zoonotic
+helminths	Clinostomum complanatum	zoonotic
+helminths	Contracaecum osculatum	zoonotic
+helminths	Corynosoma strumosum	zoonotic
+helminths	Cryptocotyle lingua	zoonotic
+helminths	Cyclodontostomum purvisi	zoonotic
+helminths	Dicrocoelium dendriticum	zoonotic
+helminths	Dicrocoelium hospes	zoonotic
+helminths	Dioctophyme renale	zoonotic
+helminths	Dipetalonema arbuta	zoonotic
+helminths	Dipetalonema reconditum	zoonotic
+helminths	Diphyllobothrium cameroni	zoonotic
+helminths	Diphyllobothrium cordatum	zoonotic
+helminths	Diphyllobothrium dalliae	zoonotic
+helminths	Diphyllobothrium dendriticum	zoonotic
+helminths	Diphyllobothrium elegans	zoonotic
+helminths	Diphyllobothrium erinaceieuropaei	zoonotic
+helminths	Diphyllobothrium hians	zoonotic
+helminths	Diphyllobothrium houghtoni	zoonotic
+helminths	Diphyllobothrium klebanovskii	zoonotic
+helminths	Diphyllobothrium lanceolatum	zoonotic
+helminths	Diphyllobothrium latum	zoonotic
+helminths	Diphyllobothrium mansonoides	zoonotic
+helminths	Diphyllobothrium nihonkaiense	zoonotic
+helminths	Diphyllobothrium orcini	zoonotic
+helminths	Diphyllobothrium pacificum	zoonotic
+helminths	Diphyllobothrium scoticum	zoonotic
+helminths	Diphyllobothrium stemmacephalum	zoonotic
+helminths	Diphyllobothrium theileri	zoonotic
+helminths	Diplogonoporus balaenopterae	zoonotic
+helminths	Diplogonoporus brauni	zoonotic
+helminths	Diplogonoporus fukuokaensis	zoonotic
+helminths	Diplostomum spathaceum	zoonotic
+helminths	Dipylidium caninum	zoonotic
+helminths	Dirofilaria immitis	zoonotic
+helminths	Dirofilaria repens	zoonotic
+helminths	Dirofilaria striata	zoonotic
+helminths	Dirofilaria subdermata	zoonotic
+helminths	Dirofilaria tenuis	zoonotic
+helminths	Dirofilaria ursi	zoonotic
+helminths	Dracunculus insignis	zoonotic
+helminths	Dracunculus medinensis	zoonotic
+helminths	Drepanidotaenia lanceolata	zoonotic
+helminths	Echinochasmus japonicus	zoonotic
+helminths	Echinochasmus jiufoensis	zoonotic
+helminths	Echinochasmus perfoliatus	zoonotic
+helminths	Echinococcus granulosus	zoonotic, emerging
+helminths	Echinococcus multilocularis	zoonotic
+helminths	Echinococcus oligarthus	zoonotic
+helminths	Echinococcus vogeli	zoonotic
+helminths	Echinoparyphium recurvatum	zoonotic
+helminths	Echinostoma cinetorchis	zoonotic
+helminths	Echinostoma echinatum	zoonotic
+helminths	Echinostoma hortense	zoonotic
+helminths	Echinostoma ilocanum	zoonotic
+helminths	Echinostoma jassyense	zoonotic
+helminths	Echinostoma macrorchis	zoonotic
+helminths	Echinostoma malayanum	zoonotic
+helminths	Echinostoma revolutum	zoonotic
+helminths	Enterobius gregorii	zoonotic
+helminths	Enterobius vermicularis	zoonotic
+helminths	Episthmium caninum	zoonotic
+helminths	Eucoleus aerophilus	zoonotic
+helminths	Eurytrema pancreaticum	zoonotic
+helminths	Eustrongylides sp.	zoonotic
+helminths	Fasciola gigantica	zoonotic
+helminths	Fasciola hepatica	zoonotic
+helminths	Fasciola indica	zoonotic
+helminths	Fasciolopsis buski	zoonotic
+helminths	Fibricola seoulensis	zoonotic
+helminths	Gastrodiscoides hominis	zoonotic
+helminths	Gigantobilharzia huttoni	zoonotic
+helminths	Gigantobilharzia sturniae	zoonotic
+helminths	Gnathostoma doloresi	zoonotic
+helminths	Gnathostoma hispidum	zoonotic
+helminths	Gnathostoma nipponicum	zoonotic
+helminths	Gnathostoma spinigerum	zoonotic
+helminths	Gongylonema pulchrum	zoonotic
+helminths	Gymnophalloides sp.	zoonotic
+helminths	Haemonchus contortus	zoonotic
+helminths	Haplorchis pumilo	zoonotic
+helminths	Haplorchis taichui	zoonotic
+helminths	Haplorchis vanissima	zoonotic
+helminths	Haplorchis yokogawai	zoonotic
+helminths	Heterobilharzia americana	zoonotic
+helminths	Heterophyes dispar	zoonotic
+helminths	Heterophyes heterophyes	zoonotic
+helminths	Heterophyes nocens	zoonotic
+helminths	Heterophyopsis continua	zoonotic
+helminths	Himasthala muehlensi	zoonotic
+helminths	Hymenolepis diminuta	zoonotic
+helminths	Hymenolepis nana	zoonotic
+helminths	Hypoderaeum conoideum	zoonotic
+helminths	Inermicapsifer madagascariensis	zoonotic
+helminths	Isoparorchis hypselobagri	zoonotic
+helminths	Lagochilascaris minor	zoonotic
+helminths	Ligula intestinalis	zoonotic
+helminths	Loa loa	zoonotic, emerging
+helminths	Macracanthorhynchus hirudinaceus	zoonotic
+helminths	Macracanthorhynchus ingens	zoonotic
+helminths	Mammomonogamus laryngeus	zoonotic
+helminths	Mammomonogamus nasicola	zoonotic
+helminths	Mansonella ozzardi	
+helminths	Mansonella perstans	zoonotic
+helminths	Mansonella rodhaini	zoonotic
+helminths	Mansonella semiclarum	
+helminths	Mansonella streptocerca	zoonotic
+helminths	Marshallagia marshalli	zoonotic
+helminths	Mathevotaenia symmetrica	zoonotic
+helminths	Mecistocirrus digitatus	zoonotic
+helminths	Meningonema peruzzii	zoonotic
+helminths	Mesocestoides lineatus	zoonotic
+helminths	Mesocestoides variabilis	zoonotic
+helminths	Metagonimus minutus	zoonotic
+helminths	Metagonimus yokogawai	zoonotic
+helminths	Metastrongylus elongatus	zoonotic
+helminths	Metorchis albidus	zoonotic
+helminths	Metorchis conjunctus	zoonotic, emerging
+helminths	Microfilaria bolivarensis	zoonotic
+helminths	Micronema deletrix	zoonotic
+helminths	Moniezia expansa	zoonotic
+helminths	Moniliformis moniliformis	zoonotic
+helminths	Multiceps brauni	zoonotic
+helminths	Multiceps glomeratus	zoonotic
+helminths	Multiceps longihamatus	zoonotic
+helminths	Multiceps multiceps	zoonotic
+helminths	Multiceps serialis	zoonotic
+helminths	Nanophyetus salmincola	zoonotic
+helminths	Necator americanus	zoonotic
+helminths	Nematodirus abnormalis	zoonotic
+helminths	Neodiplostomum sp.	zoonotic
+helminths	Oesophagostomum aculeatum	zoonotic
+helminths	Oesophagostomum bifurcum	zoonotic
+helminths	Oesophagostomum stephanostomum	zoonotic
+helminths	Onchocerca volvulus	zoonotic, emerging
+helminths	Opisthorchis felineus	zoonotic
+helminths	Opisthorchis guayaquilensis	zoonotic
+helminths	Opisthorchis noverca	zoonotic
+helminths	Opisthorchis sinensis	zoonotic
+helminths	Opisthorchis viverrini	zoonotic
+helminths	Orientobilharzia turkestanica	zoonotic
+helminths	Ornithobilharzia sp.	zoonotic
+helminths	Ostertagia ostertagi	zoonotic
+helminths	Paragonimus africanus	zoonotic
+helminths	Paragonimus bankokensis	zoonotic
+helminths	Paragonimus caliensis	zoonotic
+helminths	Paragonimus heterotremus	zoonotic
+helminths	Paragonimus hueit'ungensis	zoonotic
+helminths	Paragonimus kellicotti	zoonotic
+helminths	Paragonimus mexicanus	zoonotic
+helminths	Paragonimus miyazakii	zoonotic
+helminths	Paragonimus ohirai	zoonotic
+helminths	Paragonimus phillipinensis	zoonotic
+helminths	Paragonimus sadoensis	zoonotic
+helminths	Paragonimus siamensis	zoonotic
+helminths	Paragonimus skrjabini	zoonotic
+helminths	Paragonimus uterobilateralis	zoonotic
+helminths	Paragonimus westermani	zoonotic
+helminths	Parascaris equorum	zoonotic
+helminths	Parastrongylus cantonensis	zoonotic
+helminths	Parastrongylus costaricensis	zoonotic
+helminths	Pearsonema plica	zoonotic
+helminths	Pelodera strongyloides	zoonotic
+helminths	Phaneropsolus bonnei	zoonotic
+helminths	Philophthalmus lacrymosus	zoonotic
+helminths	Phocanema decipiens	zoonotic
+helminths	Physaloptera caucasica	zoonotic
+helminths	Physaloptera transfuga	zoonotic
+helminths	Plagiorchis harinasutai	zoonotic
+helminths	Plagiorchis javensis	zoonotic
+helminths	Plagiorchis muris	zoonotic
+helminths	Plagiorchis philippinensis	zoonotic
+helminths	Poikilorchis congolensis	zoonotic
+helminths	Procerovum calderoni	zoonotic
+helminths	Prohemistomum vivax	zoonotic
+helminths	Prosthodendrium molenkampi	zoonotic
+helminths	Pseudamphistomum aethiopicum	zoonotic
+helminths	Pseudamphistomum truncatum	zoonotic
+helminths	Psilorchis hominis	zoonotic
+helminths	Pygidiopsis summa	zoonotic
+helminths	Pyramicocephalus anthrocephalus	zoonotic
+helminths	Raillietina celebensis	zoonotic
+helminths	Raillietina demerariensis	zoonotic
+helminths	Rhabditis elongata	
+helminths	Rhabditis inermis	
+helminths	Rhabditis niellyi	
+helminths	Rhabditis pellio	
+helminths	Rictularia sp.	zoonotic
+helminths	Schistocephalus solidus	zoonotic
+helminths	Schistosoma bovis	zoonotic
+helminths	Schistosoma haematobium	zoonotic
+helminths	Schistosoma intercalatum	zoonotic
+helminths	Schistosoma japonicum	zoonotic
+helminths	Schistosoma malayensis	zoonotic
+helminths	Schistosoma mansoni	zoonotic, emerging
+helminths	Schistosoma mattheei	zoonotic
+helminths	Schistosoma mekongi	zoonotic
+helminths	Schistosoma rodhaini	zoonotic
+helminths	Schistosoma spindale	zoonotic
+helminths	Schistosomatium douthitti	zoonotic
+helminths	Setaria equina	zoonotic
+helminths	Spirocerca lupi	zoonotic
+helminths	Stellantchasmus falcatus	zoonotic
+helminths	Stictodora fuscata	zoonotic
+helminths	Strongyloides fuelleborni	zoonotic
+helminths	Strongyloides papillosus	zoonotic
+helminths	Strongyloides ransomi	zoonotic
+helminths	Strongyloides stercoralis	zoonotic, emerging
+helminths	Strongyloides westeri	zoonotic
+helminths	Syphacea obvelata	zoonotic
+helminths	Taenia crassiceps	zoonotic
+helminths	Taenia saginata	
+helminths	Taenia solium	emerging
+helminths	Taenia taeniaeformis	zoonotic
+helminths	Teladorsagia circumcincta	zoonotic
+helminths	Ternidens deminutus	zoonotic
+helminths	Thelazia californiensis	zoonotic
+helminths	Thelazia callipaeda	zoonotic
+helminths	Thelazia rhodesii	zoonotic
+helminths	Toxascaris leonina	zoonotic
+helminths	Toxocara canis	zoonotic
+helminths	Toxocara cati	zoonotic
+helminths	Trichinella britovi	zoonotic
+helminths	Trichinella nativa	zoonotic
+helminths	Trichinella nelsoni	zoonotic
+helminths	Trichinella pseudospiralis	zoonotic
+helminths	Trichinella spiralis	zoonotic, emerging
+helminths	Trichinella T5	zoonotic
+helminths	Trichobilharzia brevis	zoonotic
+helminths	Trichobilharzia ocellata	zoonotic
+helminths	Trichobilharzia stagnicolae	zoonotic
+helminths	Trichostrongylus affinis	zoonotic
+helminths	Trichostrongylus axei	zoonotic
+helminths	Trichostrongylus brevis	
+helminths	Trichostrongylus calcaratus	zoonotic
+helminths	Trichostrongylus capricola	zoonotic
+helminths	Trichostrongylus colubriformis	zoonotic
+helminths	Trichostrongylus instabilis	
+helminths	Trichostrongylus lerouxi	zoonotic
+helminths	Trichostrongylus orientalis	zoonotic
+helminths	Trichostrongylus probolurus	zoonotic
+helminths	Trichostrongylus skrjabini	zoonotic
+helminths	Trichostrongylus vitrinus	zoonotic
+helminths	Trichuris suis	zoonotic
+helminths	Trichuris trichiura	zoonotic
+helminths	Trichuris vulpis	zoonotic
+helminths	Uncinaria stenocephala	zoonotic
+helminths	Watsonius watsoni	zoonotic
+helminths	Wuchereria bancrofti	emerging
+helminths	Wuchereria lewisi	
+protozoa	Acanthamoeba astronyxis	
+protozoa	Acanthamoeba castellani	zoonotic
+protozoa	Acanthamoeba culbertsoni	zoonotic
+protozoa	Acanthamoeba hatchetti	
+protozoa	Acanthamoeba palestinensis	
+protozoa	Acanthamoeba polyphaga	
+protozoa	Acanthamoeba rhysoides	
+protozoa	Babesia bovis	zoonotic
+protozoa	Babesia divergens	zoonotic
+protozoa	Babesia gibsoni	zoonotic
+protozoa	Babesia microti	zoonotic, emerging
+protozoa	Balamuthia mandrillaris	
+protozoa	Balantidium coli	zoonotic
+protozoa	Blastocystis hominis	zoonotic
+protozoa	Cryptosporidium parvum	zoonotic, emerging
+protozoa	Cyclospora cayetanensis	zoonotic, emerging
+protozoa	Dientamoeba fragilis	zoonotic
+protozoa	Encephalitozoon cuniculi	zoonotic, emerging
+protozoa	Encephalitozoon hellem	emerging
+protozoa	Encephalitozoon intestinalis	emerging
+protozoa	Entamoeba chattoni	zoonotic
+protozoa	Entamoeba histolytica	zoonotic
+protozoa	Entamoeba moshkovskii	
+protozoa	Enterocytozoon bieneusi	emerging
+protozoa	Giardia duodenalis	zoonotic, emerging
+protozoa	Isospora belli	zoonotic, emerging
+protozoa	Leishmania aethiopica	zoonotic
+protozoa	Leishmania amazonensis	zoonotic
+protozoa	Leishmania braziliensis	zoonotic
+protozoa	Leishmania chagasi	zoonotic
+protozoa	Leishmania donovani	zoonotic, emerging
+protozoa	Leishmania guyanensis	zoonotic
+protozoa	Leishmania infantum	zoonotic, emerging
+protozoa	Leishmania lainsoni	zoonotic
+protozoa	Leishmania major	zoonotic
+protozoa	Leishmania mexicana	zoonotic
+protozoa	Leishmania naiffi	zoonotic
+protozoa	Leishmania panamensis	zoonotic
+protozoa	Leishmania peruviana	zoonotic
+protozoa	Leishmania pifanoi	zoonotic
+protozoa	Leishmania shawi	zoonotic
+protozoa	Leishmania tropica	zoonotic
+protozoa	Leishmania venezuelensis	zoonotic
+protozoa	Naegleria fowleri	
+protozoa	Nosema africanum	
+protozoa	Nosema ceylonensis	
+protozoa	Nosema connori	emerging
+protozoa	Nosema ocularum	
+protozoa	Pentatrichomonas hominis	zoonotic
+protozoa	Plasmodium falciparum	emerging
+protozoa	Plasmodium knowlesi	zoonotic
+protozoa	Plasmodium malariae	zoonotic
+protozoa	Plasmodium ovale	
+protozoa	Plasmodium simium	zoonotic
+protozoa	Plasmodium vivax	emerging
+protozoa	Retortamonas intestinalis	zoonotic
+protozoa	Sarcocystis hominis	
+protozoa	Sarcocystis lindermanni	zoonotic
+protozoa	Sarcocystis suihominis	
+protozoa	Toxoplasma gondii	zoonotic, emerging
+protozoa	Trachipleistophora hominis	emerging
+protozoa	Trichomonas tenax	zoonotic
+protozoa	Trichomonas vaginalis	emerging
+protozoa	Trypanosoma brucei	zoonotic, emerging
+protozoa	Trypanosoma cruzi	zoonotic, emerging
+protozoa	Vittaforma corneae	
+virus	Andes virus	zoonotic, emerging
+virus	Apoi virus	zoonotic
+virus	Australian bat lyssavirus	zoonotic, emerging
+virus	B19 virus	emerging
+virus	Bagaza virus	zoonotic
+virus	Bangui virus	zoonotic
+virus	Banna virus	zoonotic, emerging
+virus	Banzi virus	zoonotic
+virus	Barmah Forest virus	zoonotic, emerging
+virus	Batken virus	zoonotic
+virus	Bayou virus	zoonotic
+virus	Bebaru virus	zoonotic
+virus	Bhanja virus	zoonotic
+virus	BK virus	
+virus	Black creek canal virus	zoonotic
+virus	Borna disease virus	zoonotic
+virus	Bovine Ephemeral Fever virus	zoonotic
+virus	Bovine Papular Stomatitis virus	zoonotic
+virus	BSE agent	zoonotic, emerging
+virus	Buffalopox virus	zoonotic
+virus	Bunyamwera virus	zoonotic
+virus	Bussuquara virus	zoonotic
+virus	Bwamba virus	zoonotic
+virus	California encephalitis virus	zoonotic, emerging
+virus	Candiru virus complex	zoonotic
+virus	Caraparu virus	zoonotic
+virus	Catu virus	zoonotic
+virus	Cercopithecine herpes virus 1	zoonotic, emerging
+virus	Chandipura virus	zoonotic
+virus	Changuinola virus	zoonotic
+virus	Chikungunya virus	zoonotic, emerging
+virus	Chim virus	zoonotic
+virus	CJD agent	
+virus	Colorado tick fever virus	zoonotic
+virus	Cote d'Ivoire Ebola virus	zoonotic
+virus	Cowpox virus	zoonotic
+virus	Crimean-Congo haemorrhagic fever virus	zoonotic, emerging
+virus	Dakar bat virus	zoonotic
+virus	Dengue virus	zoonotic, emerging
+virus	Dhori virus	zoonotic
+virus	Dobrava-Belgrade virus	zoonotic
+virus	Dugbe virus	zoonotic
+virus	Duvenhage virus	zoonotic
+virus	Eastern equine encephalitis virus	zoonotic, emerging
+virus	Edge Hill virus	zoonotic
+virus	Encephalomyocarditis virus	zoonotic
+virus	European bat lyssavirus 1	zoonotic
+virus	European bat lyssavirus 2	zoonotic
+virus	European Tick-borne encephalitis virus	zoonotic, emerging
+virus	Everglades virus	zoonotic
+virus	Eyach virus	zoonotic
+virus	Far eastern Tick-borne encephalitis virus	zoonotic, emerging
+virus	Foot and mouth disease virus	zoonotic
+virus	Gan gan virus	zoonotic
+virus	Getah virus	zoonotic
+virus	Guama virus	zoonotic, emerging
+virus	Guanarito virus	zoonotic, emerging
+virus	Guaroa virus	zoonotic
+virus	Hantaan virus	zoonotic, emerging
+virus	Hendra virus	zoonotic, emerging
+virus	Hepatitis A virus	zoonotic, emerging
+virus	Hepatitis B virus	emerging
+virus	Hepatitis C virus	emerging
+virus	Hepatitis delta virus	
+virus	Hepatitis E virus	zoonotic, emerging
+virus	Hepatitis G virus	emerging
+virus	HU39694 virus	zoonotic
+virus	Hughes virus	zoonotic
+virus	Human adenovirus A	
+virus	Human adenovirus B	
+virus	Human adenovirus C	
+virus	Human adenovirus D	
+virus	Human adenovirus E	
+virus	Human adenovirus F	
+virus	Human astrovirus	emerging
+virus	Human Coronavirus 229E	
+virus	Human Coronavirus OC43	
+virus	Human enterovirus 68	
+virus	Human enterovirus 70	
+virus	Human enterovirus A	
+virus	Human enterovirus B	emerging
+virus	Human enterovirus C	
+virus	Human enterovirus D	
+virus	Human Herpesvirus 1	emerging
+virus	Human Herpesvirus 2	emerging
+virus	Human Herpesvirus 3	emerging
+virus	Human Herpesvirus 4	
+virus	Human Herpesvirus 5	emerging
+virus	Human Herpesvirus 6	
+virus	Human Herpesvirus 7	
+virus	Human Herpesvirus 8	emerging
+virus	Human Immunodeficiency Virus 1	emerging
+virus	Human Immunodeficiency Virus 2	emerging
+virus	Human papillomavirus	emerging
+virus	Human parainfluenza virus 1	
+virus	Human parainfluenza virus 2	
+virus	Human parainfluenza virus 3	
+virus	Human parainfluenza virus 4	
+virus	Human parechovirus type 1	
+virus	Human parechovirus type 2	
+virus	Human Respiratory Syncytial virus	
+virus	Human Rhinovirus A	
+virus	Human Rhinovirus B	
+virus	Human T-Lymphotropic Virus 1	emerging
+virus	Igbo-ora virus	zoonotic
+virus	Ilheus virus	zoonotic
+virus	Influenza A virus	zoonotic, emerging
+virus	Influenza B virus	zoonotic
+virus	Influenza C virus	zoonotic
+virus	Issyk-Kul virus	zoonotic
+virus	Japanese encephalitis virus	zoonotic, emerging
+virus	JC virus	
+virus	Junin virus	zoonotic, emerging
+virus	Juquitiba virus	zoonotic
+virus	Kairi virus	zoonotic
+virus	Kasokero virus	zoonotic
+virus	Kedougou virus	zoonotic
+virus	Kemerovo virus	zoonotic
+virus	Kokobera virus	zoonotic
+virus	Koutango virus	zoonotic
+virus	Kyasanur forest disease virus	zoonotic, emerging
+virus	Laguna Negra virus	zoonotic, emerging
+virus	Lanjan virus	zoonotic
+virus	Lassa virus	zoonotic, emerging
+virus	Lebombo virus	zoonotic
+virus	Lechiguanas virus	zoonotic
+virus	Louping ill virus	zoonotic
+virus	Lymphocytic choriomeningitis virus	zoonotic
+virus	Machupo virus	zoonotic, emerging
+virus	Madrid virus	zoonotic
+virus	Marburg virus	zoonotic, emerging
+virus	Marituba virus	zoonotic
+virus	Mayaro virus	zoonotic, emerging
+virus	Measles virus	zoonotic, emerging
+virus	Menangle virus	zoonotic, emerging
+virus	Mokola virus	zoonotic
+virus	Molluscum contagiosum virus	
+virus	Monkeypox virus	zoonotic, emerging
+virus	Monongahela virus	zoonotic
+virus	Mucambo virus	zoonotic
+virus	Mumps virus	
+virus	Murray Valley encephalitis virus	zoonotic, emerging
+virus	New York virus	zoonotic
+virus	Newcastle disease virus	zoonotic
+virus	Nipah virus	zoonotic, emerging
+virus	Norwalk virus	emerging
+virus	Nyando virus	zoonotic
+virus	Ockelbo virus	zoonotic
+virus	Omsk haemorrhagic fever virus	zoonotic
+virus	O'nyong-nyong virus	zoonotic, emerging
+virus	Oran virus	zoonotic
+virus	Orf virus	zoonotic
+virus	Oriboca virus	zoonotic
+virus	Oropouche virus	zoonotic, emerging
+virus	Orungo virus	zoonotic
+virus	Phnom-Penh bat virus	zoonotic
+virus	Picobirnavirus	emerging
+virus	Piry virus	zoonotic
+virus	Poliovirus	emerging
+virus	Powassan virus	zoonotic
+virus	Pseudocowpox virus	zoonotic
+virus	Punta Toro virus	zoonotic
+virus	Puumala virus	zoonotic, emerging
+virus	Quaranfil Virus	zoonotic
+virus	Rabies virus	zoonotic, emerging
+virus	Reston Ebola virus	zoonotic, emerging
+virus	Rift Valley fever virus	zoonotic, emerging
+virus	Rio Bravo virus	zoonotic
+virus	Rocio virus	zoonotic, emerging
+virus	Ross River virus	zoonotic, emerging
+virus	Rotavirus A	zoonotic, emerging
+virus	Rotavirus B	zoonotic, emerging
+virus	Rotavirus C	zoonotic, emerging
+virus	Rotavirus D	zoonotic
+virus	Rotavirus E	zoonotic
+virus	Rotavirus F	zoonotic
+virus	Royal Farm virus	zoonotic
+virus	Rubella virus	
+virus	Sabio virus	zoonotic, emerging
+virus	Saimiriine herpesvirus 1	zoonotic
+virus	Salehabad virus	zoonotic, emerging
+virus	Sandfly fever Naples virus	zoonotic, emerging
+virus	Sandfly fever virus group	zoonotic
+virus	Saumarez Reef virus	zoonotic
+virus	Sealpox virus	zoonotic
+virus	Semliki Forest virus	zoonotic
+virus	Seoul virus	zoonotic, emerging
+virus	Sepik virus	zoonotic
+virus	Sin Nombre virus	zoonotic, emerging
+virus	Sindbis virus	zoonotic, emerging
+virus	St. Louis encephalitis virus	zoonotic, emerging
+virus	Sudan Ebola virus	zoonotic
+virus	Suid herpesvirus 1	zoonotic
+virus	Swine vesicular disease virus	zoonotic
+virus	Tacaiuma virus	zoonotic
+virus	Tamdy virus	zoonotic
+virus	Tanapox virus	zoonotic
+virus	Tataguine virus	zoonotic
+virus	Thogoto virus	zoonotic
+virus	Trubanaman virus	zoonotic
+virus	Tyuleniy virus	zoonotic
+virus	Usutu virus	zoonotic
+virus	Variola virus	
+virus	Venezuelan Equine Encephalitis virus	zoonotic, emerging
+virus	Vesicular stomatitis virus	zoonotic
+virus	Wad Medani virus	zoonotic
+virus	Wanowrie virus	zoonotic
+virus	Wesselsbron virus	zoonotic, emerging
+virus	West Nile virus	zoonotic, emerging
+virus	Western Equine Encephalitis virus	zoonotic, emerging
+virus	Wyeomyia virus	zoonotic
+virus	Yaba monkey tumor virus	zoonotic
+virus	Yellow fever virus	zoonotic, emerging
+virus	Yogue virus	zoonotic
+virus	Zaire Ebola virus	zoonotic, emerging
+virus	Zika virus	zoonotic, emerging
+virus	Zinga virus	emerging
