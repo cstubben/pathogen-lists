@@ -1,4 +1,4 @@
-#Pathogen lists published by Kate Jones
+### Pathogen list published by Kate Jones
 
 [1] [Jones KE, Patel NG, Levy MA, et al. 2008](http://www.nature.com/nature/journal/v451/n7181/full/nature06536.html). Global trends in emerging infectious diseases. Nature 451:990-3
 
