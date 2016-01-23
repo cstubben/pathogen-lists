@@ -2,12 +2,11 @@
 
 [1]  [Biosafety in Microbiological and Biomedical Laboratories](http://www.cdc.gov/biosafety/publications/bmbl5), 5th Edition (Dec 2009)
 
-The [table of contents](BMBL_toc.tsv) and [Table 6](BMBL_t6.tsv) with a List of 597 Arboviruses and Hemorrhagic Fever Viruses.  The agent summaries include detailed sections of Occupational Infections, Natural Modes of Infection, Laboratory Safety and Containment Recommendations, and Special Issues including Vaccines, Treatment, Select Agent and Transfer of Agent
+The [table of contents](BMBL_toc.tsv) and [Table 6](BMBL_t6.tsv) with a List of 597 Arboviruses and Hemorrhagic Fever Viruses.  The agent summaries include detailed sections on Occupational Infections, Natural Modes of Infection, Laboratory Safety and Containment Recommendations, and Special Issues like Vaccines, Treatment, Select Agent and Transfer of Agent
 
 [2] [Nationally Notifiable Diseases](http://wwwn.cdc.gov/nndss/conditions/notifiable/2016)
 
-A 2016 [list](CDC_nnd.tsv) with 110 Nationally Notifiable Disease conditions.
-The list requires an R script [cdc_nnd.R](cdc_nnd.R) to convert to a two column table with disease and group.  A lookup table between the infectious diseases and pathogen names is needed.
+A 2016 [list](CDC_nnd.tsv) with 110 Nationally Notifiable Disease conditions. The list requires an R script [cdc_nnd.R](cdc_nnd.R) to convert to a two column table with disease and group.  A lookup table between the infectious diseases and pathogen names is needed.
 
 
 ```R
