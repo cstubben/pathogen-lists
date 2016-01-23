@@ -1,7 +1,5 @@
 #Centers for Disease Control
 
-Currently includes two tables 
-
 [1] [Nationally Notifiable Diseases](cdc_nnd.tsv)
 
 A 2016 [list](http://wwwn.cdc.gov/nndss/conditions/notifiable/2016) of Nationally Notifiable Diseases from the CDC with 110 Nationally Notifiable Conditions.
@@ -12,7 +10,7 @@ The list requires an R script [cdc_nnd.R](cdc_nnd.R) to convert to a two column 
 url <- "http://wwwn.cdc.gov/nndss/conditions/notifiable/2016"
 x1 <- readLines(url)
 cdc <- cdc_nnd(x1)
-write.table(y, file = "CDC/CDC_nnd.tsv", sep="\t", quote=FALSE, row.names=FALSE)
+write.table(cdc, file = "CDC/CDC_nnd.tsv", sep="\t", quote=FALSE, row.names=FALSE)
 ```
 
 
