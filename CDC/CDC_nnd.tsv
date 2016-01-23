@@ -1,9 +1,111 @@
 disease	group
-Arboviral diseases, neuroinvasive and non-neuroinvasive	Arboviral diseases, neuroinvasive and non-neuroinvasive
-Botulism / c. botulinum	Botulism / c. botulinum
-Dengue virus infections	Dengue virus infections
-Ehrlichiosis and Anaplasmosis	Ehrlichiosis and Anaplasmosis
-Lead, Elevated Blood Levels	Lead, Elevated Blood Levels
-Q fever	Q fever
-Syphilis	Syphilis
-Viral Hemorrhagic Fever (VHF)	Viral Hemorrhagic Fever (VHF)
+Anthrax	
+California Serogroup Virus Diseases	Arboviral diseases, neuroinvasive and non-neuroinvasive
+Chikungunya Virus Disease* (not OMB PRA approved)	Arboviral diseases, neuroinvasive and non-neuroinvasive
+Eastern Equine Encephalitis Virus Disease	Arboviral diseases, neuroinvasive and non-neuroinvasive
+Powassan Virus Disease	Arboviral diseases, neuroinvasive and non-neuroinvasive
+St. Louis Encephalitis Virus Disease	Arboviral diseases, neuroinvasive and non-neuroinvasive
+West Nile Virus Disease	Arboviral diseases, neuroinvasive and non-neuroinvasive
+Western Equine Encephalitis Virus Disease	Arboviral diseases, neuroinvasive and non-neuroinvasive
+Babesiosis	
+Botulism, Foodborne	Botulism / c. botulinum
+Botulism, Infant	Botulism / c. botulinum
+Botulism, Other	Botulism / c. botulinum
+Botulism, Wound	Botulism / c. botulinum
+Brucellosis	
+Campylobacteriosis	
+Cancer	
+Carbon Monoxide Poisoning	
+Chancroid	
+Chlamydia trachomatis infection	
+Cholera	
+Coccidioidomycosis / Valley Fever	
+Congenital Syphilis	
+Cryptosporidiosis	
+Cyclosporiasis	
+Dengue	Dengue virus infections
+Dengue Fever (DF)	Dengue virus infections
+Dengue Hemorrhagic Fever (DHF)	Dengue virus infections
+Dengue Shock Syndrome (DSS)	Dengue virus infections
+Dengue-like illness* (not OMB PRA approved)	Dengue virus infections
+Severe dengue	Dengue virus infections
+Diphtheria	
+Anaplasma phagocytophilum Infection	Ehrlichiosis and Anaplasmosis
+Ehrlichia chaffeensis Infection	Ehrlichiosis and Anaplasmosis
+Ehrlichia ewingii Infection	Ehrlichiosis and Anaplasmosis
+Undetermined Human Ehrlichiosis/Anaplasmosis	Ehrlichiosis and Anaplasmosis
+Foodborne Disease Outbreak	
+Giardiasis	
+Gonorrhea	
+Haemophilus influenzae, invasive disease	
+Hansen's disease / Leprosy	
+Hantavirus infection, non-Hantavirus pulmonary syndrome* (not OMB PRA approved)	
+Hantavirus pulmonary syndrome (HPS)	
+Hemolytic uremic syndrome, post-diarrheal (HUS)	
+Hepatitis A, acute	
+Hepatitis B, acute	
+Hepatitis B, chronic	
+Hepatitis B, perinatal infection	
+Hepatitis C, acute	
+Hepatitis C, chronic	
+HIV Infection (AIDS has been reclassified as HIV Stage III) (AIDS/HIV)	
+Influenza-associated pediatric mortality	
+Invasive Pneumococcal Disease (IPD) / Streptococcus pneumoniae, Invasive Disease	
+Lead, Elevated Blood Levels, Adult (≥16 Years) 	Lead, Elevated Blood Levels
+Lead, Elevated Blood Levels, Children (<16 Years)	Lead, Elevated Blood Levels
+Legionellosis / Legionnaire's Disease or Pontiac fever	
+Leptospirosis	
+Listeriosis	
+Lyme disease	
+Malaria	
+Measles / Rubeola	
+Meningococcal disease	
+Mumps	
+Novel influenza A virus infections	
+Pertussis / Whooping Cough	
+Pesticide-Related Illness and Injury, Acute	
+Plague	
+Poliomyelitis, paralytic	
+Poliovirus infection, nonparalytic	
+Psittacosis / Ornithosis	
+Q fever, acute	Q fever
+Q fever, chronic	Q fever
+Rabies, animal	
+Rabies, human	
+Rubella / German Measles	
+Rubella, congenital syndrome (CRS)	
+Salmonellosis	
+Severe Acute Respiratory Syndrome-Associated Coronavirus Disease (SARS)	
+Shiga toxin-producing Escherichia coli (STEC)	
+Shigellosis	
+Silicosis	
+Smallpox / Variola	
+Spotted Fever Rickettsiosis	
+Streptococcal toxic shock syndrome (STSS)	
+Syphilis, Early Latent	Syphilis
+Syphilis, Late Latent	Syphilis
+Syphilis, late with clinical manifestations (including late benign syphilis and cardiovascular syphilis)	Syphilis
+Syphilis, Primary	Syphilis
+Syphilis, Secondary	Syphilis
+Syphilitic Stillbirth	Syphilis
+Tetanus / c. tetani	
+Toxic shock syndrome (other than Streptococcal) (TSS)	
+Trichinellosis / Trichinosis	
+Tuberculosis (TB)	
+Tularemia	
+Typhoid fever	
+Vancomycin-intermediate Staphylococcus aureus and Vancomycin-resistant Staphylococcus aureus (VISA/VRSA)	
+Varicella / Chickenpox	
+Varicella deaths	
+Vibriosis	
+Crimean-Congo Hemorrhagic Fever virus	Viral Hemorrhagic Fever (VHF)
+Ebola virus	Viral Hemorrhagic Fever (VHF)
+Lassa virus	Viral Hemorrhagic Fever (VHF)
+Lujo virus	Viral Hemorrhagic Fever (VHF)
+Marburg virus	Viral Hemorrhagic Fever (VHF)
+New World Arenavirus - Guanarito virus	Viral Hemorrhagic Fever (VHF)
+New World Arenavirus - Junin virus	Viral Hemorrhagic Fever (VHF)
+New World Arenavirus - Machupo virus	Viral Hemorrhagic Fever (VHF)
+New World Arenavirus - Sabia virus	Viral Hemorrhagic Fever (VHF)
+Waterborne Disease Outbreak	
+Yellow fever	
