@@ -2,7 +2,7 @@ NIAID	NCBI	comment
 Clostridium botulinum toxin	Clostridium botulinum	
 Variola major	Variola virus	
 other related pox viruses	Orthopoxvirus	see https://en.wikipedia.org/wiki/Poxviridae. 
-other related pox viruses	Parapoxvirus,	
+other related pox viruses	Parapoxvirus	
 other related pox viruses	Yatapoxvirus	
 other related pox viruses	Molluscipoxvirus	
 Junin	Junin virus	
@@ -68,7 +68,7 @@ Acanthamebiasis	Acanthamoeba polyphaga
 Acanthamebiasis	Acanthamoeba quina	
 Acanthamebiasis	Acanthamoeba rhysodes	
 Anaplasmosis	Anaplasma	
-Babesia, atypical	Babesia microti, Babesia duncani, Babesia divergens	see https://en.wikipedia.org/wiki/Babesiosis
+Babesia, atypical	Babesia microti	see https://en.wikipedia.org/wiki/Babesiosis
 Babesia, atypical	Babesia duncani	
 Babesia, atypical	Babesia divergens	
 Ehrlichiosis	Ehrlichia	
