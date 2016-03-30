@@ -1,6 +1,6 @@
 ###Enhanced Infectious Disease Database (EID2)
 
-Data Citations 1 and 2 from the [EID2](www.zoonosis.ac.uk/EID2/) paper
+Data Citations 1 and 2 from the [EID2](http://www.zoonosis.ac.uk/EID2) paper
 
 [Wardeh M, Risley C, McIntyre MK, et al. 2015](http://www.nature.com/articles/sdata201549). *Database of host-pathogen and related species interactions, and their global distribution*.  Scientific Data 2:150049
 
