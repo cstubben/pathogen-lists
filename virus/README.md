@@ -4,7 +4,7 @@
  
 A [table](http://viralzone.expasy.org/all_by_species/678.html) from the Swiss Institute of Bioinformatics Resource Portal with 129 human viral pathogens.
 
-The [file](http://education.expasy.org/Table_human_viruses.txt) has a replacement character � at start of file which causes errors when loading into R.
+A replacement character at the start of the [file](http://education.expasy.org/Table_human_viruses.txt) will cause errors when loading into R.
 
 [2] [Virus-Host DB](http://www.genome.jp/virushostdb)
 
