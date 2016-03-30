@@ -1,6 +1,6 @@
 ###Enhanced Infectious Disease Database (EID2)
 
-Data Citations 1 and 2 from the [EID2](www.zoonosis.ac.uk/ EID2/) paper
+Data Citations 1 and 2 from the [EID2](www.zoonosis.ac.uk/EID2/) paper
 
 [Wardeh M, Risley C, McIntyre MK, et al. 2015](http://www.nature.com/articles/sdata201549). *Database of host-pathogen and related species interactions, and their global distribution*.  Scientific Data 2:150049
 
@@ -8,10 +8,8 @@ Data Citations 1 and 2 from the [EID2](www.zoonosis.ac.uk/ EID2/) paper
 
 ```R
 x <- read.csv("SpeciesInteractions_EID2.csv", stringsAsFactors=FALSE)
-library(plyr)
-y <- ddply(x, c("Cargo" ,"Cargo.classification"), summarise,
-               N    = length(Carrier),
-               Carriers = paste(Carrier, collapse="; ") )
+library(dplyr)
+y <- group_by(x, Cargo, Cargo.classification)  %>% summarize( N = n(), Carriers = paste(Carrier, collapse="; ")  )
 z <- subset( y, grepl("homo sapiens", Carriers))
 table(z$Cargo.classification)
 
@@ -29,9 +27,7 @@ x1 <- read.csv("LocationInteractions_EID2.csv", stringsAsFactors=FALSE)
 ## get unique countries and ignore regions
 y1 <- unique(x1[, 1:3])
 y1 <- subset(y1, Species %in% z$Cargo)
-z1 <- ddply(y1, c("Species" ,"Species.classification"), summarise,
-               N    = length(Country),
-               Countries = paste(Country, collapse="; ") )
+z1 <- group_by(y1, Species, Species.classification)  %>% summarize( N = n(), Country = paste(Country, collapse="; ")  )
 
 write.table(z1, file = "EID2/EID_countries.tsv", sep="\t", quote=FALSE, row.names=FALSE)
 ```
