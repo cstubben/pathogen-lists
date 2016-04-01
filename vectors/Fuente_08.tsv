@@ -58,7 +58,7 @@ Bacteria	Rickettsia monacensis 	Unnamed 	Ixodes ricinus 	Europe 	Human 	19, 29
 Bacteria	Ehrlichia chaffeensis 	Human monocytic ehrlichiosis 	Amblyomma americanum, Dermacentor variabilis 	USA 	Human and various mammals 	2, 20 
 Bacteria	Ehrlichia ewingii 	Canine granulocytic ehrlichiosis, Human ehrlichiosis 	Amblyomma americanum 	USA 	Human, dogs 	2, 18 
 Bacteria	Ehrlichia ruminantium 	Heartwater 	Amblyomma hebraeum, A. astrion, A. cohaerens, A. gemma, A. marmoreum, A. lepidum, A. pomposum, A. variegatum, A. americanum^8 	Africa, Caribbean 	Mainly cattle^9 	3, 30 
-Bacteria	E. canis 	Canine ehrlichiosis 	Rhipicephalus sanguineus 	Southern USA, southern Europe, Africa, Middle East, eastern Asia 	Dogs 	2
+Bacteria	Ehrlichia canis 	Canine ehrlichiosis 	Rhipicephalus sanguineus 	Southern USA, southern Europe, Africa, Middle East, eastern Asia 	Dogs 	2
 Bacteria	Anaplasma 	Human granulocytic 	Ixodes scapularis, I. pacificus, I. 	USA, Europe 	Human and various 	20, 33, 34 
 Bacteria	phagocytophilum 	anaplasmosis 	ricinus, I. hexagonus 		mammals 	
 Bacteria	Anaplasma marginale 	Bovine Anaplasmosis 	Various 	Worldwide 	Cattle 	35
