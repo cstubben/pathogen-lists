@@ -27,7 +27,6 @@ Protozoa	Theileria mutans 	Benign Theileriosis 	Amblyomma hebraeum, A. lepidum, 
 Protozoa	Theileria taurotragi	Benign Theileriosis 	Rhipicephalus appendiculatus, R. pulchellus, R. zambeziensis 	Africa 	Cattle 	8
 Protozoa	Theileria ovis	Sheep theileriosis 	Hyalomma spp., Rhipicephalus bursa 	Africa, Asia 	Sheep 	12
 Protozoa	Theileria lestoquardi	Sheep theileriosis 	Hyalomma spp. 	Mediterranean region, Asia, Middle East, India 	Sheep, Goats 	11
-Protozoa						
 Protozoa	Theileria separata 	Non-pathogenic 	Rhipicephalus evertsi 	Sheep, goats 	Africa 	11
 Protozoa	Theileria bicornis 	Not named 	Unknown 	Black rhinoceros (Diceros bicornis) 	Southern Africa 	5
 Protozoa	Theileria equi 	Equine biliary fever 	Dermacentor spp., Rhipicephalus spp., Hyalomma spp., Boophilus spp. 	Horses, mules, donkeys 	Southern Europe, Africa, Asia 	3, 11 
@@ -69,11 +68,8 @@ Bacteria	Anaplasma platys 	Canine ehrlichiosis 	Rhipicephalus sanguineus 		Dog 	
 Bacteria	Francisella tularensis 	Tularemia 	Various 	Eurasia, Nearctic 	Human and various mammals 	18
 Bacteria	Coxiella burnetii 	Q fever 	Various^10 	Worldwide 	Human and various mammals 	18
 Bacteria	Borrelia burgdorferi 	Lyme disease 	Ixodes pacificus, I. persulcatus, I. ricinus, I. scapularis 	USA, Canada, Europe, Asia, northern Africa 	Human 	18, 33 
-Bacteria						
 Bacteria	Borrelia garinii 	Lyme disease 	Ixodes persulcatus, I. ricinus 	Europe, Asia, northern Africa 	Human 	33
-Bacteria						
 Bacteria	Borrelia afzelii 	Lyme disease 	Ixodes persulcatus, I. ricinus 	Europe, Asia, northern Africa 	Human 	33
-Bacteria						
 Bacteria	Borrelia valaisiana 	Lyme disease 	Ixodes ricinus 	Europe, Asia 	Human 	18, 33 
 Bacteria	Borrelia lusitaniae 		Ixodes ricinus 	Europe 		33
 Bacteria	Borrelia spielmani 	Lyme disease 	Ixodes ricinus 	Europe 	Human 	80
@@ -116,3 +112,4 @@ Viruses	Kyasanur Forest disease virus	Kyasanur Forest disease 	Haemaphysalis spp
 Viruses	African Swine Fever virus	African Swine Fever 	Ornithodoros moubata, O. erraticus, O. turicata, O. coriaceus, O. puertoricensis^16 	Africa, sourthern Europe, Caribbean (outbreaks in Brazil, likely imported) 	Domestic pigs 	44, 55 
 Nematoda	Acanthocheilonema viteae		Ornithodoros tartakovskyi 	Asia 	Rodents 	17
 Nematoda	Acanthocheilonema dracunculoides		Rhipicephalus sanguineus 		Dogs 	57
+
