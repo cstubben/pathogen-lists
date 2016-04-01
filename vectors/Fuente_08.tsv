@@ -59,8 +59,7 @@ Bacteria	Ehrlichia chaffeensis 	Human monocytic ehrlichiosis 	Amblyomma american
 Bacteria	Ehrlichia ewingii 	Canine granulocytic ehrlichiosis, Human ehrlichiosis 	Amblyomma americanum 	USA 	Human, dogs 	2, 18 
 Bacteria	Ehrlichia ruminantium 	Heartwater 	Amblyomma hebraeum, A. astrion, A. cohaerens, A. gemma, A. marmoreum, A. lepidum, A. pomposum, A. variegatum, A. americanum^8 	Africa, Caribbean 	Mainly cattle^9 	3, 30 
 Bacteria	Ehrlichia canis 	Canine ehrlichiosis 	Rhipicephalus sanguineus 	Southern USA, southern Europe, Africa, Middle East, eastern Asia 	Dogs 	2
-Bacteria	Anaplasma 	Human granulocytic 	Ixodes scapularis, I. pacificus, I. 	USA, Europe 	Human and various 	20, 33, 34 
-Bacteria	phagocytophilum 	anaplasmosis 	ricinus, I. hexagonus 		mammals 	
+Bacteria	Anaplasma phagocytophilum	Human granulocytic anaplasmosis 	Ixodes scapularis, I. pacificus, I. ricinus, I. hexagonus 	USA, Europe 	Human and various mammals 	20, 33, 34 
 Bacteria	Anaplasma marginale 	Bovine Anaplasmosis 	Various 	Worldwide 	Cattle 	35
 Bacteria	Anaplasma centrale 	Bovine Anaplasmosis 	Various 	Worldwide 	Cattle 	35
 Bacteria	Anaplasma ovis 	Ovine Anaplasmosis 	Various 	Worldwide 	Sheep 	35
@@ -112,4 +111,3 @@ Viruses	Kyasanur Forest disease virus	Kyasanur Forest disease 	Haemaphysalis spp
 Viruses	African Swine Fever virus	African Swine Fever 	Ornithodoros moubata, O. erraticus, O. turicata, O. coriaceus, O. puertoricensis^16 	Africa, sourthern Europe, Caribbean (outbreaks in Brazil, likely imported) 	Domestic pigs 	44, 55 
 Nematoda	Acanthocheilonema viteae		Ornithodoros tartakovskyi 	Asia 	Rodents 	17
 Nematoda	Acanthocheilonema dracunculoides		Rhipicephalus sanguineus 		Dogs 	57
-
