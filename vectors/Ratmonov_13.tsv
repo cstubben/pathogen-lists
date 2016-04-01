@@ -1,0 +1,24 @@
+Subheading	Disease 	Pathogen 	Reservoir 	Vector
+Protozoal	Malaria 	Plasmodium falciparum	Humans 	Mosquitoes (Anopheles gambiae s.l., An. funestus)
+Protozoal	Malaria 	Plasmodium vivax	Humans 	Mosquitoes (Anopheles gambiae s.l., An. funestus)
+Protozoal	Malaria 	Plasmodium ovale	Humans 	Mosquitoes (Anopheles gambiae s.l., An. funestus)
+Protozoal	Malaria 	Plasmodium malariae 	Humans 	Mosquitoes (Anopheles gambiae s.l., An. funestus)
+Protozoal	Human African trypanosomiasis 	Trypanosoma brucei gambiense 	Humans, some wild and domestic mammals 	Tsetse flies (Glossina palpalis s.l., G. tachinoides)
+Protozoal	Leishmaniasis 	Leishmania	Mammals 	Phlebotomus (Phlebotomus spp.),Sergentomyia (Spelaeomyia) darlingi
+Helminthic	Lymphatic filariasis 	Wuchereria bancrofti 	Humans 	Mosquitoes (Anopheles spp.)
+Helminthic	Loa loa filariasis (loiasis) 	Loa loa 	Humans, wild mammals 	Tabanid flies (Chrysops spp.)
+Helminthic	Onchocerciasis (river blindness)	Onchocerca volvulus 	Humans 	Black flies (Simulium genus)
+Viral	Rift Valley fever 	Rift Valley fever virus 	Wild and domestic mammals	Mosquitoes (Aedes spp., Culex spp.)
+Viral	Dengue 	Dengue virus 	Humans 	Mosquitoes (Aedes spp.)
+Viral	Chikungunya fever 	Chikungunya virus 	Primates, humans 	Mosquitoes (Aedes spp.)
+Viral	Crimean–Congo haemorrhagic fever 	Crimean-Congo haemorrhagic fever virus 	Domestic and wild animals 	Ticks (Hyalomma genus, Amblyomma variegatum)
+Viral	Yellow fever 	Yellow fever virus 	Primates, humans 	Mosquitoes (Aedes spp.)
+Bacterial	Mediterranean spotted fever 	Rickettsia conorii 	Wild and domestic mammals	Ticks (Rhipicephalus evertsi)
+Bacterial	African tick-bite fever 	Rickettsia africae 	Wild and domestic mammals 	Ticks (Amblyomma variegatum, Rhipicephalus evertsi)
+Bacterial	Tickborne relapsing fever 	Borrelia crocidurae 	Rodents 	Ticks (Ornithodoros sonrai)
+Bacterial	Rickettsia felis infection 	Rickettsia felis 	Unknown 	Fleas (Ctenocephalides felis and others)
+Bacterial	Trench fever 	Bartonella quintana 	Humans 	Lice (Pediculus humanus humanus)
+Bacterial	Louseborne relapsing fever	Borrelia recurrentis 	Humans 	Lice (Pediculus humanus humanus)
+Bacterial	Epidemic typhus 	Rickettsia prowazekii 	Humans 	Lice (Pediculus humanus humanus)
+Bacterial	Buruli ulcer 	Mycobacterium ulcerans 	Unknown	
+Bacterial	Q fever 	Coxiella burnetii 	Mammals, birds and arthropods	Ticks^a[Possibility of transmission of Q fever by tick was not studied]

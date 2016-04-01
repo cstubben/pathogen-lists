@@ -1,0 +1,118 @@
+subheading	Pathogen 	Disease 	Tick vectors 	Geographical distribution 	Host species affected 	References 
+Protozoa	Babesia beliceri 		Hyalomma spp. 	Russia 	Cattle 	1
+Protozoa	Babesia bigemina 	Cattle babesiosis 	Boophilus spp., Rhipicephalus spp. 	Africa, America, Asia, Australia 	Cattle, buffalo 	1
+Protozoa	Babesia bovis 	Cattle babesiosis 	Boophilus spp. 	Africa, America, Asia, Australia 	Cattle, buffalo 	1
+Protozoa	Babesia major 	Cattle babesiosis 	Haemaphysalis spp. 	Europe 	Cattle 	1
+Protozoa	Babesia ovata 		Haemaphysalis spp. 	Asia 	Cattle 	1
+Protozoa	Babesia occultans 		Hyalomma spp. 	Africa 	Cattle 	1
+Protozoa	Babesia divergens 	Cattle babesiosis 	Ixodes spp. 	Europe 	Cattle, Human^2 	1
+Protozoa	Babesia microti		Ixodes scapularis 	USA, Canada 	Human, rodents 	1
+Protozoa	Babesia canis 	Dog babesiosis 	Rhipicephalus sanguineus, Dermacentor reticulatus, D. marginatus 	Tropical and semitropical worldwide 	Dogs 	1, 2, 3 
+Protozoa	Babesia vogeli	Dog babesiosis 	Rhipicephalus sanguineus 	Tropical and semitropical worldwide 	Dogs 	1
+Protozoa	Babesia rossi	Dog babesiosis 	Haemaphysalis leachi 	Southern Africa 	Dogs 	1, 2 
+Protozoa	Babesia gibsoni 	Dog babesiosis 	Haemaphysalis bispinosa, H. longicornis, Rhipicephalus sanguineus 	Africa, Asia, USA, southern Europe 	Dogs 	1, 2, 3 
+Protozoa	Babesia ovis 	Sheep babesiosis 	Rhipicephalus bursa, R. turanicus 	Africa, Asia, Europe 	Sheep 	1
+Protozoa	Babesia motasi 	Sheep babesiosis 	Haemaphysalis spp. 	Africa, Asia, Europe 	Sheep 	1
+Protozoa	Babesia caballi 	Horse babesiosis 	Dermacentor spp., Rhipicephalus evertsi evertsi 	Africa, America, Asia, Europe 	Horses, mules, donkeys 	1, 3 
+Protozoa	Babesia felis 		Unknown 	Africa 	Cats 	1
+Protozoa	Babesia bicornis 		Unknown 	Southern Africa 	Black rhinoceros (Diceros bicornis) 	5
+Protozoa	Babesia odocoilei 		Ixodes scapularis 	America 	Cervidae and wild Bovidae 	6
+Protozoa	Theileria annulata 	Tropical theileriosis 	Hyalomma spp. 	Eurasia, Africa, Central Asia 	Cattle, Camels 	7
+Protozoa	Theileria orientalis 		Haemaphysalis spp. 	Asia 	Cattle, Asian buffalo 	8
+Protozoa	Theileria parva 	East Coast Fever 	Rhipicephalus appendiculatus 	Africa 	Cattle 	9
+Protozoa	Theileria lawrencei 	Corridor disease 	Rhipicephalus zambeziensis 	Africa 	Cattle 	10
+Protozoa	Theileria velifera 	Apathogenic 	Amblyomma spp. 	Africa 	Cattle, African buffalo 	11
+Protozoa	Theileria buffeli 	Apathogenic 	Haemaphysalis spp. 	Asia 	Cattle, Asian buffalo 	11
+Protozoa	Theileria mutans 	Benign Theileriosis 	Amblyomma hebraeum, A. lepidum, A. variegaum, A. cohaerens, A. gemma 	Africa 	Cattle 	3, 10 
+Protozoa	Theileria taurotragi	Benign Theileriosis 	Rhipicephalus appendiculatus, R. pulchellus, R. zambeziensis 	Africa 	Cattle 	8
+Protozoa	Theileria ovis	Sheep theileriosis 	Hyalomma spp., Rhipicephalus bursa 	Africa, Asia 	Sheep 	12
+Protozoa	Theileria lestoquardi	Sheep theileriosis 	Hyalomma spp. 	Mediterranean region, Asia, Middle East, India 	Sheep, Goats 	11
+Protozoa						
+Protozoa	Theileria separata 	Non-pathogenic 	Rhipicephalus evertsi 	Sheep, goats 	Africa 	11
+Protozoa	Theileria bicornis 	Not named 	Unknown 	Black rhinoceros (Diceros bicornis) 	Southern Africa 	5
+Protozoa	Theileria equi 	Equine biliary fever 	Dermacentor spp., Rhipicephalus spp., Hyalomma spp., Boophilus spp. 	Horses, mules, donkeys 	Southern Europe, Africa, Asia 	3, 11 
+Protozoa	Theileria cervi 	Non-pathogenic 	Amblyomma americanum 	White-tailed deer (Odocoileus virginianus) 	Nearctic 	76
+Protozoa	Hepatozoon canis 	Hepatozoonosis 	Rhipicephalus sanguineus, Haemaphysalis longicornis 	Southern Europe, Middle East, Far East, Africa 	Dogs 	13
+Protozoa	Hepatozoon americanum 	Hepatozoonosis 	Amblyomma maculatum 	Southern USA 	Dogs 	13
+Protozoa	Cytauxzoon felis 	Cytauxzoonosis^5 	Dermacentor variabilis 	USA, Brazil 	Domestic cats and wilds felids 	15, 16 
+Bacteria	Aegyptianella pullorum 	Aegyptianellosis 	Argas walkerae, A. persicus, A. reflexus 	Africa, southern Europe, Middle Asia, Indian subcontinent 	Domestic poultry 	3, 17 
+Bacteria	Rickettsia rickettsii 	Rocky Mountain spotted fever 	Dermacentor andersoni, D. variabilis, Amblyomma cajennense, A. aureolatum, Rhipicephalus sanguineus 	Americas 	Human, dog 	18, 19, 20 
+Bacteria	Rickettsia amblyommii 	Spotted fever rickettsiae group; no disease name 	Amblyomma americanum, A. neumanni, A. cajennense, A. coelebs 	Americas 	Human 	77-79 
+Bacteria	Rickettsia conorii conorii 	Mediterranean spotted fever 	Rhipicephalus sanguineus 	Europe, Africa, Asia 	Human, dog 	18, 19, 20 
+Bacteria	Rickettsia conorii israelensis 	Israeli spotted fever 	Rhipicephalus sanguineus 	Israel 	Human 	19, 20 
+Bacteria	Rickettsia conorii caspia 	Astrakhan fever 	Rhipicephalus sanguineus, R. pumilio 	Africa, Asia 	Human 	19, 20 
+Bacteria	Rickettsia conorii indica 	Indian tick typhus 	Rhipicephalus sanguineus 	India 	Human 	23
+Bacteria	Rickettsia sibirica sibirica 	Siberian or North Asian tick typhus  	Dermacentor nuttalli, D. marginatus, D. silvarum, D. sinicus, Haemaphysalis concinna 	Asia 	Human 	18, 19, 20 
+Bacteria	Rickettsia sibirica mongolotimonae 	Unnamed 	Hyalomma asiaticum, H. truncatum, H. anatolicum excavatum 	Africa, China, France 	Human 	18, 19, 20 
+Bacteria	Rickettsia australis 	Queensland tick typhus 	Ixodes holocyclus, I. tasmani 	Australia 	Human 	18, 19, 20 
+Bacteria	Rickettsia japonica 	Oriental or Japanese spotted fever 	Ixodes ovatus, Dermacentor taiwanensis, Haemaphysalis longicornis, H. flava 	Japan 	Human 	18, 19, 20 
+Bacteria	Rickettsia africae 	African tick-bite fever 	Amblyomma hebraeum, A. variegatum 	Africa, Reunion Island, West Indies 	Human 	18, 19, 20 
+Bacteria	Rickettsia honei 	Flinders island spotted fever 	Bothriocroton hydrosauri, Amblyomma cajennense, Ixodes granulatus 	Australia, USA, Thailand 	Human 	18, 19, 20 
+Bacteria	Rickettsia slovaca 	TIBOLA, DEBONEL^7 	Dermacentor marginatus, D. reticulatus 	Europe, Asia 	Human 	18, 19, 20 
+Bacteria	Rickettsia helvetica 	Pathogenicity suspected in humans 	Ixodes ricinus 	Europe 	Human 	24
+Bacteria	Rickettsia heilongjiangensis 	Unnamed 	Dermacentor silvarum 	China 	Human 	23
+Bacteria	Rickettsia aeschlimannii 	Unnamed 	Hyalomma marginatum marginatum, H. m. rufipes, Rhipicephalus appendiculatus 	Europe, Africa 	Human 	18, 19, 20 
+Bacteria	Rickettsia parkeri 	Unnamed 	dubitatum  Amblyomma. maculatum, A. dubitatum triste, A. 	USA, Uruguay, Brazil 	Human 	19, 23, 25 
+Bacteria	Rickettsia massiliae 	Unnamed 	Rhipicephalus sanguineus, R. turanicus, R. muhsamae, R. lunulatus, R. sulcatus 	Europe, Asia, Argentina, USA 	Human 	19, 26, 27, 28
+Bacteria	Rickettsia marmionii 	Australian spotted fever 	Haemaphysalis novaeguineae, Ixodes holocyclus 	Australia 	Human 	19, 23 
+Bacteria	Rickettsia monacensis 	Unnamed 	Ixodes ricinus 	Europe 	Human 	19, 29 
+Bacteria	Ehrlichia chaffeensis 	Human monocytic ehrlichiosis 	Amblyomma americanum, Dermacentor variabilis 	USA 	Human and various mammals 	2, 20 
+Bacteria	Ehrlichia ewingii 	Canine granulocytic ehrlichiosis, Human ehrlichiosis 	Amblyomma americanum 	USA 	Human, dogs 	2, 18 
+Bacteria	Ehrlichia ruminantium 	Heartwater 	Amblyomma hebraeum, A. astrion, A. cohaerens, A. gemma, A. marmoreum, A. lepidum, A. pomposum, A. variegatum, A. americanum^8 	Africa, Caribbean 	Mainly cattle^9 	3, 30 
+Bacteria	E. canis 	Canine ehrlichiosis 	Rhipicephalus sanguineus 	Southern USA, southern Europe, Africa, Middle East, eastern Asia 	Dogs 	2
+Bacteria	Anaplasma 	Human granulocytic 	Ixodes scapularis, I. pacificus, I. 	USA, Europe 	Human and various 	20, 33, 34 
+Bacteria	phagocytophilum 	anaplasmosis 	ricinus, I. hexagonus 		mammals 	
+Bacteria	Anaplasma marginale 	Bovine Anaplasmosis 	Various 	Worldwide 	Cattle 	35
+Bacteria	Anaplasma centrale 	Bovine Anaplasmosis 	Various 	Worldwide 	Cattle 	35
+Bacteria	Anaplasma ovis 	Ovine Anaplasmosis 	Various 	Worldwide 	Sheep 	35
+Bacteria	Anaplasma platys 	Canine ehrlichiosis 	Rhipicephalus sanguineus 		Dog 	36
+Bacteria	Francisella tularensis 	Tularemia 	Various 	Eurasia, Nearctic 	Human and various mammals 	18
+Bacteria	Coxiella burnetii 	Q fever 	Various^10 	Worldwide 	Human and various mammals 	18
+Bacteria	Borrelia burgdorferi 	Lyme disease 	Ixodes pacificus, I. persulcatus, I. ricinus, I. scapularis 	USA, Canada, Europe, Asia, northern Africa 	Human 	18, 33 
+Bacteria						
+Bacteria	Borrelia garinii 	Lyme disease 	Ixodes persulcatus, I. ricinus 	Europe, Asia, northern Africa 	Human 	33
+Bacteria						
+Bacteria	Borrelia afzelii 	Lyme disease 	Ixodes persulcatus, I. ricinus 	Europe, Asia, northern Africa 	Human 	33
+Bacteria						
+Bacteria	Borrelia valaisiana 	Lyme disease 	Ixodes ricinus 	Europe, Asia 	Human 	18, 33 
+Bacteria	Borrelia lusitaniae 		Ixodes ricinus 	Europe 		33
+Bacteria	Borrelia spielmani 	Lyme disease 	Ixodes ricinus 	Europe 	Human 	80
+Bacteria	Borrelia japonica 	Lyme disease 	Ixodes ovatus 	Japan 	Human 	33
+Bacteria	Borrelia lonestari 		Amblyomma americanum 	USA 	Human 	37
+Bacteria	Borrelia theileri 	Bovine borreliosis 	Boophilus spp., Rhipicephulus evertsi 	Africa, Central and South America, Australia 	Cattle 	38
+Bacteria	Borrelia turcica 		Hyalomma aegyptium 	Parts of Turkey^12 		39
+Bacteria	Borrelia miyamotoi 		Ixodes persulcatus 	Asia 		40
+Bacteria	Borrelia hermsii 	New World tick-borne relapsing fever 	Ornithodoros hermsi 	USA, Canada 	Human 	18, 33, 38 
+Bacteria	Borrelia turicatae 	New World tick-borne relapsing fever 	Ornithodoros turicata 	USA, Mexico 	Human 	18, 33, 38 
+Bacteria	Borrelia parkeri 	New World tick-borne relapsing fever 	Ornithodoros parkeri 	USA 	Human 	18, 33, 38 
+Bacteria	Borrelia mazzottii 	New World tick-borne relapsing fever 	Ornithodoros talaje 	USA, Mexico 		18, 38 
+Bacteria	Borrelia venezuelensis 	New World tick-borne relapsing fever 	Ornithodoros rudis 	Central and South 	Human 	18, 33, 38 
+Bacteria	Borrelia duttonii 	Old World tick-borne relapsing fever 	Ornithodoros moubata 	Africa 	Human 	18, 33, 38 
+Bacteria	Borrelia crocidurae 	Old World tick-borne relapsing fever 	Ornithodoros erraticus13 	Europe, Africa 	Human 	18, 33, 38 
+Bacteria	Borrelia persica 	Persian relapsing fever 	Ornithodoros tholozani 	Asia 	Human 	18, 33, 38 
+Bacteria	Borrelia hispanica 	Old World tick-borne relapsing fever 	Ornithodoros erraticus 	Spain, Portugal 	Human 	18, 33, 38 
+Bacteria	Borrelia latyschevii 	Old World tick-borne relapsing fever 	Ornithodoros tartakovskyi 	Iran, Central Asia 	Human 	18, 33, 38 
+Bacteria	Borrelia caucasica 	Old World tick-borne relapsing fever 	Ornithodoros aspersus 	Asia (Caucasus and Iraq) 	Human 	18, 33, 38 
+Bacteria	Borrelia graingeri 		Ornithodoros graingeri 	Africa 	Human 	18
+Bacteria	Borrelia anserina 	Avian borreliosis 	Argas spp. 	Worldwide 	Birds 	38
+Bacteria	Borrelia tillae 		Ornihodoros zumpti 	Africa 	Human 	42
+Bacteria	Borrelia coraciae 	Bovine epizootic abortion 	Ornithodoros coriaceus 	USA 	Cattle 	33, 38 
+Bacteria	Borrelia parkeri 		Ornithodoros parkeri 	USA 	Human 	42
+Bacteria	Dermatophilus congolensis 	Dermatophilosis 	Amblyomma variegatum^14 	Africa 	Ruminants 	3
+Viruses	Crimean-Congo Hemorrhagic Fever virus 	Crimean-Congo Hemorrhagic Fever virus 	Hyalomma marginatum, Hy. a. anatolicum, Hy. truncatum, Amblyommma variegatum, Haemaphysalis punctata, Ixodes ricinus, Dermacemtor spp., Rhipicephalus spp. 	Africa, Asia, Europe 	Human 	3, 33, 43, 44
+Viruses	Nairobi Sheep Disease 	Nairobi Sheep Disease 	Rhipicephalus appendiculatus, R. pulchelus, Amblyomma variegatum 	Kenya, Uganda, Rwanda, Tanzania, Somalia 	Sheep, goats 	45
+Viruses	Soldado virus 	Soldado virus 	Ornithodoros maritimus, O. capensis, O. denmarki 	Trinidad, Hawaii, Seychelles, Ethiopia, South Africa, Morocco, France, United Kingdom 	Human 	33, 44 
+Viruses	Issyk-Kul fever virus 	Issyk-Kul fever virus 	Argas vespertilionis, A. pusillus, Ixodes vespertilionis^15 	Tadzhikistan, Kyrgyzstan, Turkmenistan 	Bats, human 	46
+Viruses	Eyach virus 	Eyach virus 	Ixodes ricinus, I. ventalloi 	Europe 	Human 	44
+Viruses	Colorado tick fever 	Colorado tick fever 	Dermacentor andersoni, D. occidentalis, D. albipictus 	Nearctic 	Human 	44
+Viruses	Mono Lake virus 	Mono Lake virus 	Argas monolakensis, A. cooleyi Amblyomma spp., Boophilus spp., 	USA 	Human 	33, 47, 48,49 
+Viruses	Thogotovirus 		Hyalomma spp., Rhipicephalus spp. 	Central and East Africa, southern Europe 	Sheep, human 	44, 50 
+Viruses	Omsk Hemorrhagic fever virus	Omsk Hemorrhagic fever 	Dermacentor reticulatus 	Omsk and Novosibirsk regions of western Siberia (Russia) 	Human 	33, 44 
+Viruses	Tick Borne Encephalitis virus	Tick Borne Encephalitis 	Ixodes ricinus, I. persulcatus, Haemaphysalis concinna, H. punctata 	Europe, Asia 	Human 	33, 44 
+Viruses	Langat virus 	Langat virus 	Ixodes granulatus, Haemaphysalis papuana 	Malaysia 	Wild rodents 	51
+Viruses	Louping ill virus	Louping ill 	Ixodes ricinus 	United Kingdom 	Sheep 	52
+Viruses	Powassan Encephalitis virus	Powassan Encephalitis 	Ixodes cookie, I. marxi, I. scapularis, Dermacentor andersoni 	Canada, USA, Russia 	Human, rodents 	3, 44, 53 
+Viruses	Kyasanur Forest disease virus	Kyasanur Forest disease 	Haemaphysalis spp. (mainly H. spinigera and H. turturis) 	Forested areas of the Kyasanur district in India 	Human, monkeys 	54
+Viruses	African Swine Fever virus	African Swine Fever 	Ornithodoros moubata, O. erraticus, O. turicata, O. coriaceus, O. puertoricensis^16 	Africa, sourthern Europe, Caribbean (outbreaks in Brazil, likely imported) 	Domestic pigs 	44, 55 
+Nematoda	Acanthocheilonema viteae		Ornithodoros tartakovskyi 	Asia 	Rodents 	17
+Nematoda	Acanthocheilonema dracunculoides		Rhipicephalus sanguineus 		Dogs 	57
